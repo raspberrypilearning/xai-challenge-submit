@@ -53,15 +53,15 @@ Sketch or doodle how your app might look. It doesn't have to be perfect. It's li
 📌 **What's It About?** 
 Just like you need food to grow, your app needs data to learn. It's like feeding it its favorite snacks.
 📌 **Your Move**: 
-Search for cool datasets online. Find one that matches your mission. It's like choosing the right ingredients for a magic potion.
+Search for cool datasets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission and feed it to your ML model. Or, make your own dataset like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
 
 ---
 
 **6. Train the Model: Gym Time for Your App**
 📌 **What's It About?** 
-Using "Machine Learning 4 Kids," it's time to train your app. Think of it as a workout session, but for your app.
+Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your app. Think of it as a workout session, but for your app.
 📌 **Your Move**: 
-Upload your dataset to "Machine Learning 4 Kids" and start the training. It's like teaching your pet some new tricks!
+Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. It's like teaching your pet some new tricks!
 
 ---
 
@@ -69,7 +69,7 @@ Upload your dataset to "Machine Learning 4 Kids" and start the training. It's li
 📌 **What's It About?** 
 You've built a mini roller coaster. Now, it's time for your friends to ride it and tell you how it feels.
 📌 **Your Move**: 
-Share your app with friends. Get their honest opinions. It's like a taste test for a new ice cream flavor.
+Share your app with friends. Get their honest opinions. It's like a taste test for a new ice cream flavor. Try using the `Two ⭐s and a Wish` format: get your feedback in the form of two things your testers like about your app, and one thing they wish was different.
 
 ---
 
@@ -77,7 +77,7 @@ Share your app with friends. Get their honest opinions. It's like a taste test f
 📌 **What's It About?** 
 Got feedback? Great! Now, make your app even cooler. It's like leveling up in a video game.
 📌 **Your Move**: 
-List the feedback. Tweak your app like customizing your game character with new outfits and powers.
+List the feedback. Tweak your app like customizing your game character with new outfits and powers, or make the instructions clearer.
 
 ---
 
@@ -85,7 +85,7 @@ List the feedback. Tweak your app like customizing your game character with new 
 📌 **What's It About?** 
 You're about to launch your masterpiece. It's like the grand premiere of your movie.
 📌 **Your Move**: 
-Double-check everything. Make it look and feel awesome. Then, unveil it to the world!
+Double-check everything. Make it look and feel awesome. Then, unveil it to the world by submitting to us!
 
 ---
 
