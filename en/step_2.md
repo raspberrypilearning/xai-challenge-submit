@@ -93,6 +93,6 @@ Double-check everything. Make it look and feel awesome. Then, unveil it to the w
 📌 **What's It About?** 
 Every hero has a story. Share yours. How did you turn an idea into this cool app?
 📌 **Your Move**: 
-Fill out the submission form, including your answers to the 'magic questions', and your model card explaining your ML model. Shortlisted entrants will be invited to a special event for awesome AI arrchitects with Google Deepmind, the world's leading AI research company!
+Fill out the submission form, including your answers to the 'magic questions', and your model card explaining your ML model. Shortlisted entrants will be invited to a special event for awesome AI architects with Google Deepmind, the world's leading AI research company!
 
 ---
