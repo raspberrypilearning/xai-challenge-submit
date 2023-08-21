@@ -66,7 +66,7 @@ Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.
 📌 **What's It About?** 
 You've trained your model, and now it's showtime! It's like giving your favorite Scratch sprite a brand new superpower using the magic of Machine Learning.
 📌 **Your Move**: 
-Jump back into [Scratch](https://scratch.mit.edu/){:target="_blank"} and open up your project. With the skills you've got, connect your trained model from Machine Learning 4 Kids to Scratch. Remember how you made sprites move and talk? Now, they can think too! Maybe your sprite can guess the animal you're thinking of, or it can react to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation come to life with its new brainpower!
+Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target="_blank"} and start building your project. With the skills you've got, connect your trained model from Machine Learning 4 Kids to Scratch. Remember how you made sprites move and talk? Now, they can 'learn' too! Maybe your sprite can guess the animal you're thinking of, tell musical instruments apart, or it can react to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation come to life with its new digital brainpower!
 
 ---
 
