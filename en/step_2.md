@@ -47,7 +47,6 @@ You know how superheroes have origin stories? This is your app's origin story �
 📌 **Your Move**: 
 Sketch or doodle how your app might look. It doesn't have to be perfect. It's like drawing a comic strip of your app's journey.
 
----
 
     **4a. Choose a Dataset: Pick Your Brain Food**
     📌 **What's It About?** 
@@ -55,7 +54,6 @@ Sketch or doodle how your app might look. It doesn't have to be perfect. It's li
     📌 **Your Move**: 
     Search for cool datasets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission and feed it to your ML model. Or, make your own dataset like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
 
----
 
     **4b. Train the Model: Gym Time for Your App**
     📌 **What's It About?** 
@@ -63,7 +61,6 @@ Sketch or doodle how your app might look. It doesn't have to be perfect. It's li
     📌 **Your Move**: 
     Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. It's like teaching your pet some new tricks!
 
----
 
     **4c. Integrate in Scratch: Power Up Your Project**
     📌 **What's It About?** 
