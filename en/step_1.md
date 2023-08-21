@@ -1,14 +1,18 @@
 ## Introduction
 
-You are going to create ... Your ... will need to meet the **project brief**.
+You are going to create a machine learning model and an application which uses it. 
 
-<mark>this particular boxout optional: maybe a good idea if first path</mark>
+Your ML app will need to meet the **project brief**.
+
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
 </p>
 
 You will:
-+ 
+  + Build a machine learning model on Machine Learning for Kids with multiple **classes**
+  + Collect relevant **training data** for each class in your classification model
+  + Train your machine learning model on your collected training data
+  + Build a classifier application in Scratch that uses your model to solve a problem 
 + 
 + 
 
@@ -45,13 +49,18 @@ Description of what to do or think about when looking at the example.
 
 Brief explanation of aims of project. 
 
-Your ... should:
-+ ...
-+ ...
+**Your ML classification application should:**
+1. Use Machine Learning for Kids in conjunction with Scratch to create a classification model.
+2. Have a clear user interface (UI) that helps users understand how to use the application.
+3. Showcase the use of at least one type of data for classification: audio, image, text, or numbers.
+4. Be user-friendly and intuitive, ensuring that users without prior machine learning knowledge can interact with the tool.
+5. Provide feedback to the user on the classification results in an easy-to-understand manner.
 
-Your ... could:
-+ ...
-+ ...
+**🌌 Your ML classification application could...**
+1. Incorporate more than one type of data classification, blending audio, image, text, or numbers.
+2. Feature creative themes or settings, like a superhero world, a mystical forest, or an underwater adventure.
+3. Incorporate animations, sounds, or visual effects that are triggered by the classification results.
+4. Allow users to customize or personalize the application, like choosing avatars or setting preferred themes.
 </div>
 
 --- no-print ---
@@ -61,22 +70,6 @@ Your ... could:
 --- task ---
 
 Think about ... as you investigate these example projects to get more ideas:
-
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Scratch blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
-</div>
 
 --- /task ---
 
