@@ -18,7 +18,7 @@ So, next time you dream of creating the next big thing, remember design thinking
 
 ---
 
-#### 1. Empathize: Dive into Others' Shoes
+### 1. Empathize: Dive into Others' Shoes
 📌 **What's It About?** 
 Imagine you're watching a movie, and you're trying to figure out what the main character feels. That's empathy! In design, it means understanding what others need or struggle with.
 📌 **Your Move**: 
@@ -26,7 +26,7 @@ Chat with friends or classmates. Ask them about apps they love or hate and why. 
 
 ---
 
-#### 2. Define: Pinpoint the Challenge
+### 2. Define: Pinpoint the Challenge
 📌 **What's It About?** 
 Remember those puzzles where you find the hidden objects? This step is about finding that one main challenge or problem from all the feedback you've gathered.
 📌 **Your Move**: 
@@ -34,7 +34,7 @@ Review your notes. What's that one thing everyone keeps talking about? That's yo
 
 ---
 
-#### 3. Ideate: Unleash Your Creativity
+### 3. Ideate: Unleash Your Creativity
 📌 **What's It About?** 
 Think of this as a brainstorming party! No idea is too wild. It's like suggesting toppings for a pizza - the crazier, the better!
 📌 **Your Move**: 
@@ -42,7 +42,7 @@ Grab some colorful pens and paper. Write or draw every idea that pops into your 
 
 ---
 
-#### 4. Prototype: Craft Your Blueprint
+### 4. Prototype: Craft Your Blueprint
 📌 **What's It About?** 
 You know how superheroes have origin stories? This is your app's origin story — forge a basic version to show the world.
 📌 **Your Move**: 
@@ -70,7 +70,7 @@ Jump back into [Scratch](https://scratch.mit.edu/){:target="_blank"} and open up
 
 ---
 
-#### 5. Test: Let Your Friends Take It for a Spin**
+### 5. Test: Let Your Friends Take It for a Spin**
 📌 **What's It About?** 
 You've built a mini roller coaster. Now, it's time for your friends to ride it and tell you how it feels.
 📌 **Your Move**: 
@@ -78,7 +78,7 @@ Share your app with friends. Get their honest opinions. It's like a taste test f
 
 ---
 
-#### 6. Iterate: Upgrade and Shine
+### 6. Iterate: Upgrade and Shine
 📌 **What's It About?** 
 Got feedback? Great! Now, make your app even cooler. It's like leveling up in a video game.
 📌 **Your Move**: 
@@ -86,7 +86,7 @@ List the feedback. Tweak your app like customizing your game character with new 
 
 ---
 
-#### 7. Finalize: Get Ready for the Spotlight
+### 7. Finalize: Get Ready for the Spotlight
 📌 **What's It About?** 
 You're about to launch your masterpiece. It's like the grand premiere of your movie.
 📌 **Your Move**: 
@@ -94,7 +94,7 @@ Double-check everything. Make it look and feel awesome. Think about how you want
 
 ---
 
-#### 8. Reflect and Share: Tell Your Epic Tale
+### 8. Reflect and Share: Tell Your Epic Tale
 📌 **What's It About?** 
 Every hero has a story. Share yours. How did you turn an idea into this cool app?
 📌 **Your Move**: 
