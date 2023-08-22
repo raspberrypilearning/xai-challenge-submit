@@ -58,7 +58,7 @@ These three stages are the planning part of the cycle. It's like sketching out t
 
 --- task ---
 
-**Ideate Reflection Questions for Your Awesome ML Classification App:**
+**Ideate: Ask yourself these questions or discuss them in your group and write the answers in your Blueprint.**
 
 1. **Ideas Storm**: If you had a magic wand, what cool features would you add to the app? Think wild and wacky! Write them all down and worry about how sensible they are later.
 
