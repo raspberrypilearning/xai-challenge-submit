@@ -1,5 +1,12 @@
 ## The Design Thinking Process
 
+<div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+<h2 style="color: #0faeb0">“Design is about shaping the future, and doing it better than anyone else.”</h2> </div>
+<div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px; text-align: right'>
+<h3>- Elon Musk</h3>
+</div>
+<br>
+
 Hey future world-changers! Ever wondered how the coolest apps, games, or even roller coasters are made? Enter the magical world of **design thinking**!
 
 **Why do we use it?**  
