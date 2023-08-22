@@ -63,7 +63,7 @@ So, grab your chosen or created dataset, and let's start training! Think of your
 
 --- /collapse ---
 
-[[ [Testing with images]] ]
+
 
 --- collapse ---
 ---
