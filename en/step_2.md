@@ -77,7 +77,7 @@ Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target=
 
 ---
 
-### 5. Test: Let Your Friends Take It for a Spin**
+### 5. Test: Let Your Friends Take It for a Spin
 📌 **What's It About?** 
 You've built a mini roller coaster. Now, it's time for your friends to ride it and tell you how it feels.
 📌 **Your Move**: 
