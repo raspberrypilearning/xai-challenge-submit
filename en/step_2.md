@@ -62,7 +62,7 @@ Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="
 Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. It's like teaching your pet some new tricks!
 
 
-**4c. Integrate in Scratch: Power Up Your Project**
+**4c. Build in Scratch: Power Up Your Project**
 📌 **What's It About?** 
 You've trained your model, and now it's showtime! It's like giving your favorite Scratch sprite a brand new superpower using the magic of Machine Learning.
 📌 **Your Move**: 
