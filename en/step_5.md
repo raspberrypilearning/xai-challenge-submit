@@ -32,19 +32,29 @@ Once you submit your entry, your work will be looked at by a panel of AI experts
 </p>
 
 ### Answer the four 'Magic Questions'
-To help the experts understand your project better, we ask every participant in the Experience AI Challenge
+To help the experts understand your project better, we ask every participant in the Experience AI Challenge to answer these four 'Magic Questions' about their project:
 
 1. What is your project? What does it do, in your own words? 
 2. What did you find difficult about making it? How did you overcome those challenges?
 3. If you had more time, what would you change or add to your application?
 4. If someone knew about your application and wanted to use it in a way you didn’t intend, can you think of a way they could use it to harm or influence others? If so, how could you stop that from happening?
 
+By answering these, not only do you guide us through your creation, but you also reflect on your journey and ensure your work is safe and fun for everyone. By providing detailed answers to these questions, you're giving your project a better spotlight, enhancing your chances of being shortlisted! Sharing more helps us truly understand and appreciate your hard work and creativity.
+
+--- task ---
+
+**Think:** Take some time now to think about what you'd like to tell the experts about your journey to creating your app. 
+**Write** your answers to the questions in your **Blueprint**, so you can refer to them when you submit your challenge entry.
+
+--- /task ---
+
+
 ## Create a model card
 Model cards are an approach for describing a Machine Learning model to people who haven’t seen or used the model or applications using the model before. People who want to use a model should be given information to help them understand how effectively the model will work with the data they will be using.
 
 --- task ---
 
-Look at [this example of a model card](https://modelcards.withgoogle.com/face-detection){:target="_blank"}, created by designers at google. (Don’t worry, yours won’t need to be as long as this one!)
+**Look** at [this example of a model card](https://modelcards.withgoogle.com/face-detection){:target="_blank"}, created by designers at google. (Don’t worry, yours won’t need to be as long as this one!)
 
 Notice that it lists the following important information about the model for new users: 
 + What it is intended to do 
@@ -61,6 +71,11 @@ Fill out the blank model card in your **blueprint document**. The information yo
 --- /task ---
 
 When you come to the field for `data set`, you can easily find this information about your model on its page on machine learning 4 kids:
+
+--- collapse ---
+---
+title: Finding your model information on ML4K
+---
 
 --- task ---
 
@@ -100,6 +115,9 @@ Select Learn & Test.
  Machine learning for kids will give you some information about how many data samples you have collected for each class, as well as the date and time you most recently trained the model.
 
 ![](images/trained_model.png)
+
+--- /collapse ---
+
 
 Keep this information handy, as you'll need it in your submission!
 
