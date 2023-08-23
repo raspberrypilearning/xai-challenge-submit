@@ -31,17 +31,15 @@ So go ahead, finalize that masterpiece, and take a moment to pat yourself on the
 Once you submit your entry, your work will be looked at by a panel of AI experts and educators. You’ll get feedback on your work, with special shortlisted entries being showcased in our global Coolest Projects Showcase and shortlisted teams invited to a special event with Google Deepmind, the world's leading AI research company!
 </p>
 
-### Answer the 'Magic Questions'
+### Answer the four 'Magic Questions'
+To help the experts understand your project better, we ask every participant in the Experience AI Challenge
 
-To help the experts understand your project better, we ask every participant in the Experience AI CHallenge
-
-+ What is your project? What does it do, in your own words? 
-+ What did you find difficult about making it? How did you overcome those challenges?
-+ If you had more time, what would you change or add to your application?
-+ If someone knew about your application and wanted to use it in a way you didn’t intend, can you think of a way they could use it to harm or influence others? If so, how could you stop that from happening?
+1. What is your project? What does it do, in your own words? 
+2. What did you find difficult about making it? How did you overcome those challenges?
+3. If you had more time, what would you change or add to your application?
+4. If someone knew about your application and wanted to use it in a way you didn’t intend, can you think of a way they could use it to harm or influence others? If so, how could you stop that from happening?
 
 ## Create a model card
-
 Model cards are an approach for describing a Machine Learning model to people who haven’t seen or used the model or applications using the model before. People who want to use a model should be given information to help them understand how effectively the model will work with the data they will be using.
 
 --- task ---
@@ -64,7 +62,6 @@ Fill out the blank model card in your **blueprint document**. The information yo
 
 When you come to the field for `data set`, you can easily find this information about your model on its page on machine learning 4 kids:
 
-
 --- task ---
 
 Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/login).
@@ -81,7 +78,7 @@ In the screen that appears, choose **Log In**. Enter your username and password 
 
 --- task ---
 
-Select Go to your Projects.
+Select **Go to your Projects**.
 ![Image of the blue go to your projects button on machine learning for kids](images/go2projects.png)
 
 --- /task ---
