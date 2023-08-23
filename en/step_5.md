@@ -23,8 +23,9 @@ So go ahead, finalize that masterpiece, and take a moment to pat yourself on the
 
 ### You will:
 + Create a **Model Card** for your machine learning model
-+ Complete the submission form and upload both your scratch applications
-+ Complete the participant survey
++ Complete the **submission form** and upload your **scratch application**
++ Complete the **participant survey**
+
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 Once you submit your entry, your work will be looked at by a panel of AI experts and educators. You’ll get feedback on your work, with special shortlisted entries being showcased in our global Coolest Projects Showcase and shortlisted teams invited to a special event with Google Deepmind, the world's leading AI research company!
@@ -34,10 +35,10 @@ Once you submit your entry, your work will be looked at by a panel of AI experts
 
 To help the experts understand your project better, we ask every participant in the Experience AI CHallenge
 
-     - What is your project? What does it do, in your own words? 
-     - What did you find difficult about making it? How did you overcome those challenges?
-     - If you had more time, what would you change or add to your application?
-     - If someone knew about your application and wanted to use it in a way you didn’t intend, can you think of a way they could use it to harm or influence others? If so, how could you stop that from happening?
++ What is your project? What does it do, in your own words? 
++ What did you find difficult about making it? How did you overcome those challenges?
++ If you had more time, what would you change or add to your application?
++ If someone knew about your application and wanted to use it in a way you didn’t intend, can you think of a way they could use it to harm or influence others? If so, how could you stop that from happening?
 
 ## Create a model card
 
