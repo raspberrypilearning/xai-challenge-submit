@@ -86,6 +86,45 @@ title: Testing with Text
 ### Build in Scratch
 Combine the magic of Scratch with the smarts of your trained machine learning model! Turn your smart new computer brain into a game, a helper tool, or even a fun quiz! You've trained your model, tested its skills, and now it's showtime! Dive into Scratch, let your creativity run wild, and build something truly amazing.
 
+--- collapse ---
+---
+title: Pro tip - Save your work!
+---
+
+This special version of Scratch allows you to access your machine learning model, as well as use the music database blocks - **if you try to open your project in another version of Scratch online it probably won’t work**. 
+
+A hack you can use is to save your work to your computer often:
+
+--- task ---
+
+First, give your program a name by typing the name of your program in the project name box at the top of the screen:
+
+![The project name box highlighted.](images/name-annotated.png)
+
+--- /task ---
+
+--- task ---
+
+To save your project, click on **File**, and then on **Save to your computer**:
+
+![Selecting 'Save to your computer' in the 'File' menu.](images/save.png)
+
+Your Scratch `.sb3`  file will be saved to your computer. 
+
+--- /task ---
+
+Once you have the .sb3 file for your project saved you can open it again later, or on another computer:
++ Go to [rpf.io/mlscratch](rpf.io/mlscratch){:target="_blank"} to get to this special fork of Scratch 
++ Once Scratch opens choose File > Load from your Computer
++ Select your file in the window that appears to get back to where you left off
+
+![Image showing the Scratch file menu with the Load from your computer option highlighted](images/load_menu.png)
+
+Save your work as often as you can to make sure you don’t lose any progress!
+
+--- /collapse ---
+
+
 [[[generic-scratch-backdrop-from-library]]]
 [[[generic-scratch3-paint-new-backdrop]]]
 
