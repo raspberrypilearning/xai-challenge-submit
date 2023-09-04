@@ -70,7 +70,7 @@ Fill out the blank model card in your **blueprint document**. The information yo
 
 --- /task ---
 
-When you come to the field for `data set`, you can easily find this information about your model on its page on machine learning 4 kids:
+When you come to the field for `data set`, you can easily find this information about your model on its page on Machine Learning 4 Kids:
 
 --- collapse ---
 ---
@@ -119,6 +119,6 @@ Select Learn & Test.
 --- /collapse ---
 
 
-Keep this information handy, as you'll need it in your submission!
+Remember to keep this information close by; you'll need it for the final submission step!
 
 
