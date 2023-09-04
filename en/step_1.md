@@ -56,7 +56,7 @@ Create a Machine Learning application in Scratch that solves a problem you care 
 4. Be user-friendly and intuitive, ensuring that users without prior machine learning knowledge can interact with the tool.
 5. Provide feedback to the user on the classification results in an easy-to-understand manner.
 
-**🌌 Your ML classification application could...**
+**Your ML classification application could...**
 1. Incorporate more than one type of data classification, blending audio, image, text, or numbers.
 2. Feature creative themes or settings, like a superhero world, a mystical forest, or an underwater adventure.
 3. Incorporate animations, sounds, or visual effects that are triggered by the classification results.
