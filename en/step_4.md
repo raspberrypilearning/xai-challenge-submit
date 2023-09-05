@@ -154,14 +154,14 @@ This method is like getting mini-reviews!
 - 💫 **A Wish:** A friendly tip or idea for improvement.
 
 **2. The Stoplight System 🚦:**  
-Present your project and then hand out three colored cards: Red, Yellow, and Green.
+Present your project and then hand out three coloured cards: Red, Yellow, and Green.
 - 🟢 Green Card: Parts of your project that are good to go!
 - 🟡 Yellow Card: Areas that might need a little bit of tweaking.
 - 🔴 Red Card: Things that need a second look.
 
 **3. Picture Storyboard 🖼️:**  
 Give them a few blank paper panels and ask them to draw:
-- Their favorite part of your application.
+- Their favourite part of your application.
 - A scene or part where they were a bit confused.
 - Any new idea or feature they imagine would be great!
 
