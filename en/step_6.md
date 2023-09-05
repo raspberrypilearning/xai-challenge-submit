@@ -10,6 +10,7 @@ Before you begin the process, make sure you have access to the following things 
 + Your finished model card, with all the fields filled in.
 
 + A finished scratch project uses a trained model on Machine Learning 4 Kids to power a Scratch application
+
 --- collapse ---
 ---
 title: Pro tip - Save your work!
