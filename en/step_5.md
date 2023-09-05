@@ -43,10 +43,16 @@ By answering these, not only do you guide us through your creation, but you also
 
 --- task ---
 
-**Think:** Take some time now to think about what you'd like to tell the experts about your journey to creating your app. 
+**Think:** Take some time now to think about what you'd like to tell the experts about your journey to creating your app.
+
+--- /task ---
+
+--- task ---
+
 **Write** your answers to the questions in your **Blueprint**, so you can refer to them when you submit your challenge entry.
 
 --- /task ---
+
 
 
 ## Create a model card
