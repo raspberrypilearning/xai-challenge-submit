@@ -2,7 +2,7 @@
 
 Alright, tech superstars! 🌟
 
-The finish line is just around the corner! You've worked hard, innovated, and crafted your AI app. Now, it's time to put on those final touches and take a moment to reflect on the fantastic journey.
+The finish line is just around the corner! You've worked hard, innovated, and crafted your AI app. Now, it's time to put on those final touches and take a moment to reflect on your fantastic journey.
 
 You've journeyed through brainstorming ideas, creating models, crafting applications, and gathering feedback. Now, it's time for two very crucial steps: **Finalize & Reflect**. This is the last thing to do before filling out your entry form and sharing your work with the world!
 
@@ -28,7 +28,7 @@ So go ahead, finalize that masterpiece, and take a moment to pat yourself on the
 
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-Once you submit your entry, your work will be looked at by a panel of AI experts and educators. You’ll get feedback on your work, with special shortlisted entries being showcased in our global Coolest Projects Showcase and shortlisted teams invited to a special event with Google Deepmind, the world's leading AI research company!
+Once you submit your entry, your work will be looked at by a panel of AI experts and educators. You’ll get feedback on your work, with special shortlisted entries being showcased in our global Coolest Projects Showcase and shortlisted teams invited to a special showcase with Google Deepmind, the world's leading AI research company!
 </p>
 
 ### Answer the four 'Magic Questions'
@@ -72,15 +72,15 @@ Notice that it lists the following important information about the model for new
 
 --- task ---
 
-Fill out the blank model card in your **blueprint document**. The information you provide here will form part of your submission to the showcase, so give full answers!
+Fill out the blank model card in your **blueprint document** or notebook. The information you provide here will form part of your submission to the showcase, so give full answers!
 
 --- /task ---
 
-When you come to the field for `data set`, you can easily find this information about your model on its page on Machine Learning 4 Kids:
+When you come to the field for `data set`, you can easily find this information about your model on its page on Machine Learning for Kids:
 
 --- collapse ---
 ---
-title: Finding your model information on ML4K
+title: Finding your model information on Machine Learning for Kids
 ---
 
 --- task ---

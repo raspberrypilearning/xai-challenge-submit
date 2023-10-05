@@ -40,7 +40,7 @@ Time to gather your data tools and set forth on this quest!
 [[[add-training-data-ml4k]]]
 
 ### Train the model
-Imagine teaching your pet dog a trick. You show it what to do, reward it when it does right, and correct it if it makes a mistake. Over time, it learns and gets better. Similarly, with machine learning, you're kind of "teaching" your computer a trick using your dataset.
+Imagine teaching your pet dog a trick. You show it what to do, reward it when it does right, and correct it if it makes a mistake. Over time, it learns and gets better. Similarly, with machine learning, you're training your model using your dataset.
 
 --- collapse ---
 ---
@@ -91,7 +91,7 @@ title: Testing with Audio
 Click the `Start listening` button to test your machine learning model.
 ![Image which says 'Try making a sound to see how it is recognised based on your training' with two buttons beneath. A darker blue button reading 'start listening' and a light blue button reading stop listening.](images/start_listening.png)
 
-Say one of the words that you have trained the computer to recognise. If your machine learning model recognises it, it will show a prediction of what you said.
+Say one of the words that you have trained the computer to classify. when your machine learning model processes the sound, it will show a prediction of what you said.
 
 If you’re not happy with how the model is working, go back to the **Train** page (by clicking `back to project` and then `Train`) and add more examples to all the training buckets. Try varying your speed and pronunciation, having other people add samples in their voice... or doing funny voices yourself!
 
@@ -116,7 +116,7 @@ Click the **Test** button to test your model. Your model will predict whether th
 --- /collapse ---
 
 ### Build in Scratch
-Combine the magic of Scratch with the smarts of your trained machine learning model! Turn your smart new computer brain into a game, a helper tool, or even a fun quiz! You've trained your model, tested its skills, and now it's showtime! Dive into Scratch, let your creativity run wild, and build something truly amazing.
+Combine the magic of Scratch with the smarts of your trained machine learning model! Turn your smart new model into a game, a helper tool, or even a fun quiz! You've trained your model, tested its accuracy, and now it's showtime! Dive into Scratch, let your creativity run wild, and build something truly amazing.
 
 --- collapse ---
 ---
@@ -177,7 +177,7 @@ Save your work as often as you can to make sure you don’t lose any progress!
 [[[generic-scratch3-make-list]]]
 
 ### Test and Iterate
-You've designed an exciting Scratch application powered by machine learning. Now it's time to share it and gather some feedback to make it even better! Here's why feedback matters: think of it as someone telling you which parts of a puzzle look amazing and which pieces might fit better elsewhere.
+You've designed an exciting Scratch application powered by a machine learning model. Now it's time to share it and gather some feedback to make it even better! Here's why feedback matters: think of it as someone telling you which parts of a puzzle look amazing and which pieces might fit better elsewhere.
 
 **1. Two Stars and a Wish 🌟🌟💫:**  
 This method is like getting mini-reviews!
