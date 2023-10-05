@@ -4,13 +4,13 @@ Now it's time to plan your ML app!
 
 Alright, let's dive into the first three stages with some zest and zeal!
 
-Before you set off on any epic quest, you need a map, right? In the world of **design thinking**, the first three steps - Empathise, Define, and Ideate - are like plotting your course on that treasure map! 🗺️
+Before you set off on any epic quest, you need a map, right? In the world of **design thinking**, the first three steps - Empathise, Define, and Ideate - are like plotting your course on that treasure map! 
 
 **Empathise** is all about chatting with fellow adventurers (or users) and understanding what they're looking for. It's like asking your friends what they'd love in a treehouse before you start building. 
 
 Next up, **Define**! This is where you pinpoint the main quest, like deciding that your treehouse needs a slide and a secret room. It's where you lay out all the features of your project and what you need to make that a reality.
 
-Finally, **Ideate** is the fun brainstorming party where all ideas are welcome. Dream of a treehouse with a chocolate fountain? Or maybe one that floats? Jot it all down!
+Finally, **Ideate** is the fun creativity party where all ideas are welcome. Dream of a treehouse with a chocolate fountain? Or maybe one that floats? Jot it all down!
 
 These three stages are the planning part of the cycle. It's like sketching out the blueprint of your treehouse before hammering the first nail. So, before you dive into making your next big thing, let's chat, define, and dream big.
 
