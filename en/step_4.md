@@ -63,6 +63,24 @@ So, grab your chosen or created dataset, and let's start training! Think of your
 
 --- /collapse ---
 
+--- collapse ---
+---
+title: Testing with images
+---
+
+Drag and drop an image into the link box (next to the Test with www button):
+
+![](images/test_with_www.png)
+
+Alternatively, you can:
+
++ Right-click on an image
++ Select Copy image address
++ Paste the image address into the link box
+
+Then, click the **Test with www** button to test your model.
+
+--- /collapse ---
 
 
 --- collapse ---
@@ -70,7 +88,12 @@ So, grab your chosen or created dataset, and let's start training! Think of your
 title: Testing with Audio
 ---
 
+Click the `Start listening` button to test your machine learning model.
+![Image which says 'Try making a sound to see how it is recognised based on your training' with two buttons beneath. A darker blue button reading 'start listening' and a light blue button reading stop listening.](images/start_listening.png)
 
+Say one of the words that you have trained the computer to recognise. If your machine learning model recognises it, it will show a prediction of what you said.
+
+If you’re not happy with how the model is working, go back to the **Train** page (by clicking `back to project` and then `Train`) and add more examples to all the training buckets. Try varying your speed and pronunciation, having other people add samples in their voice... or doing funny voices yourself!
 
 --- /collapse ---
 
@@ -79,6 +102,15 @@ title: Testing with Audio
 title: Testing with Text
 ---
 
+**Text projects need to be retrained after 24 hours:** If you are working on a text-based model, you will need to click the button to Train your model if you have left it overnight. Your training data will be kept online, but the model will time out after 24 hours. The model will need to be retrained at the start of each session.
+
+To see how successful your model is at classifying heroes and villains, test your model by typing a quote into the field that appears.
+
+**IMPORTANT:** Make sure you don't use a quote that already exists in your training data!
+
+Click the **Test** button to test your model. Your model will predict whether the text you entered is heroic or villainous and will tell you the level of confidence the model has in that prediction.
+
+![](images/test_text.png)
 
 
 --- /collapse ---
@@ -91,7 +123,7 @@ Combine the magic of Scratch with the smarts of your trained machine learning mo
 title: Pro tip - Save your work!
 ---
 
-This special version of Scratch allows you to access your machine learning model, as well as use the music database blocks - **if you try to open your project in another version of Scratch online it probably won’t work**. 
+This special version of Scratch allows you to access your machine learning model, as well as use the music database blocks - **if you try to open your project in another version of Scratch online it won’t work**. 
 
 A hack you can use is to save your work to your computer often:
 
