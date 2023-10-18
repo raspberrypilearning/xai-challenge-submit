@@ -1,36 +1,32 @@
-## Plan: Empathise, Define, Ideate
+## Plan: Empathise, define, ideate
 
-Now it's time to plan your ML app!
+Now it's time to plan your machine learning app!
 
-Alright, let's dive into the first three stages with some zest and zeal!
+Let's start with the first three stages of the design thinking process!
 
-Before you set off on any epic quest, you need a map, right? In the world of **design thinking**, the first three steps - Empathise, Define, and Ideate - are like plotting your course on that treasure map! 
+Before you set off on any epic quest, you need a map, right? In the world of **design thinking**, the first three steps - Empathise, Define, and Ideate - are like plotting your course on that map! 
 
-**Empathise** is all about chatting with fellow adventurers (or users) and understanding what they're looking for. It's like asking your friends what they'd love in a treehouse before you start building. 
+**Empathise** is all about talking to fellow adventurers (or users) and understanding what they want. Next up, **Define**! This is where you pinpoint the main quest and list all the features of your project and what you need to make that a reality. Finally, **Ideate** is the really creative part, where all ideas are welcome. 
 
-Next up, **Define**! This is where you pinpoint the main quest, like deciding that your treehouse needs a slide and a secret room. It's where you lay out all the features of your project and what you need to make that a reality.
-
-Finally, **Ideate** is the fun creativity party where all ideas are welcome. Dream of a treehouse with a chocolate fountain? Or maybe one that floats? Jot it all down!
-
-These three stages are the planning part of the cycle. It's like sketching out the blueprint of your treehouse before hammering the first nail. So, before you dive into making your next big thing, let's chat, define, and dream big.
+These three stages are the planning part of the process. So, before you start making your machine learning app, take some time to chat, define, and dream big.
 
 --- task ---
 
 **Empathise: Ask yourself these questions or discuss them in your group and write the answers in your Blueprint.**
 
-1. **Who's It For?**: Who do you think will use this app the most? What do they want the app to help them with?
+1. **Who's it for?**: Who do you think will use this app the most? What do they want the app to help them with?
 
-2. **What's Out There?**: Do you know if they're using any other apps or tools for this? What's cool or not-so-cool about those?
+2. **What's out there?**: Do you know if your users currently use any other apps or tools for this? What's cool or not so cool about those?
 
-3. **Data Stuff**: What kind of things (data) do they see or use often? How do they sort or group these things right now?
+3. **Data stuff**: What kind of things (data) do they see or use often? How do they sort or group these things right now?
 
-4. **Easy-Peasy or Techy?**: Do you think they want something super simple, like a toy, or something a bit more complex?
+4. **Easy-peasy or techy?**: Do you think your users want something super simple, like a toy, or something a bit more complex?
 
-5. **Imagine This**: Can you picture a time or place they'd use this app? Why would it be super helpful then?
+5. **Imagine this**: Can you picture a time or place that this app would be used? Why would it be super helpful then?
 
-6. **Secrets Safe?**: How would they feel about sharing their information or images with the app? Would they want some things to stay private?
+6. **Secrets safe?**: How do your users feel about sharing their information or images with the app? Do they want some things to stay private?
 
-7. **Dream Results**: After using the app, what awesome thing do they hope will happen? Maybe find things faster or see cool patterns?
+7. **Dream results**: After using the app, what awesome thing does your user hope will happen? Maybe find things faster, or see cool patterns, or notice trends?
 
 --- /task ---
 
@@ -38,21 +34,21 @@ These three stages are the planning part of the cycle. It's like sketching out t
 
 **Define: Ask yourself these questions or discuss them in your group and write the answers in your Blueprint.**
 
-1. **Main Mission**: Based on what everyone said, what's the BIG thing our app should do? If our app was a superhero, what would be its superpower?
+1. **Main mission**: Based on what everyone said, what's the BIG thing your app should do? If your app was a superhero, what would its superpower be?
 
-2. **Problem Breakdown**: If our challenge was like a pizza, what would be the main toppings we need to focus on? What are the most important parts of the problem we're trying to solve?
+2. **Problem breakdown**: What are the most important parts of the problem you're trying to solve? If you were to describe your app to a friend, what are the things you’d tell them about first? 
 
-3. **Dream Features**: If you could add any magical feature to the app, what would it be? Think big! Don't worry too much about how you're going to do it - what's the ultimate dream feature?
+3. **Dream features**: If you could add any feature you want to the app, what would it be? Think big! Don't worry too much about how you're going to do it - what's the ultimate dream feature?
 
-4. **User Stories**: Can you make up a short story or example of someone using the app? Like, "Jamie used the app to sort her rock collection and found out she had 5 super rare ones!"
+4. **User stories**: Can you make up a short story or example of someone using the app? Like, "Jamie used the app to sort her rock collection and found out she had 5 super rare ones!"
 
-5. **Top Priorities**: If we had to pick just 3 things the app MUST do, what would they be? Think of them as the golden rules!
+5. **Top priorities**: If you had to pick just 3 things the app MUST do, what would they be? Think of them as the golden rules!
 
-6. **Fun vs. Functional**: Should the app be more fun and game-like or more like a helpful tool? Or a mix of both? How will you make it fun? What would make it helpful?
+6. **Fun vs. functional**: Should the app be more fun and game-like or more like a helpful tool? Or a mix of both? How will you make it fun? What would make it helpful?
 
-7. **Look and Feel**: How should the app look? Bright and colorful like a candy store? Or cool and sleek like a spaceship? Draw some pictures to help yourself envision your app.
+7. **Look and feel**: How should the app look? Bright and colourful like a candy store? Or cool and sleek like a spaceship? Draw some pictures to help yourself envision your app.
 
-8.  **Success Looks Like**: How will we know if our app is a winner? Maybe everyone wants to use it, or it gets 5-star reviews? It looks super cool, or makes people laugh?
+8.  **Success looks like**: How will you know if your app is a winner? Maybe everyone wants to use it, or it gets 5-star reviews? Maybe it looks super cool, or makes people laugh?
 
 --- /task ---
 
@@ -60,14 +56,14 @@ These three stages are the planning part of the cycle. It's like sketching out t
 
 **Ideate: Ask yourself these questions or discuss them in your group and write the answers in your Blueprint.**
 
-1. **Ideas Storm**: If you had a magic wand, what cool features would you add to the app? Think wild and wacky! Write them all down and worry about how sensible they are later.
+1. **Ideas storm**: If you had a magic wand, what cool features would you add to the app? Think wild and wacky! Write them all down and worry about how achievable they are later.
 
-2. **Inspiration Station**: Are there any apps or games you love? What do you like about them? Can we borrow some of those cool ideas? Are there things about them you don't like and want to avoid in your own app?
+2. **Inspiration station**: Are there any apps or games you love? What do you like about them? Can you borrow some of those cool ideas? Are there things about them you don't like and want to avoid in your own app?
 
-3. **Fun Factor or Helping Hand?**: What would make the app super fun to use? Maybe it gives out virtual high-fives or has funny sound effects? How can the app be really helpful? Like, does it give hints or tips? Or maybe it solves a serious issue? Do you want it to do both?
+3. **Fun factor or helping hand?**: What would make the app super fun to use? Maybe it gives out virtual high-fives or has funny sound effects? How can the app be really helpful? Does it give hints or tips? Or maybe it solves a serious issue? Do you want it to do both?
    
-4. **Sketch It Out**: Can you draw or doodle what you imagine the app might look like? Maybe it has a dragon mascot or a space theme? How is it laid out on screen? How will your users provide input?
+4. **Sketch it out**: Can you draw or doodle what you imagine the app might look like? Maybe it has a dragon mascot or a space theme? How is it laid out on screen? How will your users provide input?
     
 --- /task ---
 
-Once you've answered these questions for yourself in your Blueprint, you're ready to start creating! In the next step, you'll get making your ML model in Machine learning 4 Kids and your application in Scratch!
+Once you've answered these questions in your Blueprint, you're ready to start creating! In the next step, you'll start making your model in Machine Learning for Kids and your application in Scratch!
