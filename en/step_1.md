@@ -1,8 +1,8 @@
 ## Introduction
 
-You are going to create a machine learning model and an application which uses it. 
+You are going to create a machine learning model and an application that uses it. 
 
-Your ML app will need to meet the **project brief**.
+Your machine learning app will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
@@ -44,23 +44,23 @@ Description of what to do or think about when looking at the example.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: ML Classification App
+### PROJECT BRIEF: Machine learning classification app
 <hr style="border-top: 2px solid black;">
 
-Create a Machine Learning application in Scratch that solves a problem you care about. 
+Create a machine learning application in Scratch that solves a problem you care about. 
 
-**Your ML classification application should:**
-1. Use Machine Learning for Kids in conjunction with Scratch to create a classification model.
-2. Have a clear user interface (UI) that helps users understand how to use the application.
-3. Showcase the use of at least one type of data for classification: audio, image, text, or numbers.
-4. Be user-friendly and intuitive, ensuring that users without prior machine learning knowledge can interact with the tool.
-5. Provide feedback to the user on the classification results in an easy-to-understand manner.
+**Your machine learning classification application should:**
+1. Use Machine Learning for Kids in conjunction with Scratch to create a classification tool
+2. Have a clear user interface (UI) that helps users understand how to use the application
+3. Showcase the use of at least one type of data for classification: audio, image, or text
+4. Be user-friendly and intuitive, ensuring that users without prior machine learning knowledge can interact with the tool
+5. Provide feedback to the user on the classification results in an easy-to-understand manner
 
 **Your ML classification application could...**
-1. Incorporate more than one type of data classification, blending audio, image, text, or numbers.
-2. Feature creative themes or settings, like a superhero world, a mystical forest, or an underwater adventure.
-3. Incorporate animations, sounds, or visual effects that are triggered by the classification results.
-4. Allow users to customize or personalize the application, like choosing avatars or setting preferred themes.
+1. Incorporate more than one type of data classification, blending audio, image, or text
+2. Feature creative themes or settings, like a superhero world, a mystical forest, or an underwater adventure
+3. Incorporate animations, sounds, or visual effects that are triggered by the classification results
+4. Allow users to customise or personalise the application, like choosing avatars or setting preferred themes
 </div>
 
 --- no-print ---

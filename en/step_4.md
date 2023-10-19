@@ -1,38 +1,38 @@
-## Make: Prototype, Test, Iterate
+## Make: Prototype, test, iterate
 
-Let's dive into the next steps of making your idea come to life!
+Let's look at the next steps of making your idea come to life!
 
-1. **Prototype**: Think of this as a mini-version or a "draft" of your idea. It's like when you draw a rough sketch before making a big painting. You'll be making a simple version of your project – don't worry about making it perfect! It's just so you can see how it might work in real life. You'll make an ML model, just like you did before, then link it to an awesome Scratch project your users can interact with.
+1. **Prototype**: Think of this as a mini-version or a "draft" of your idea. It's like when you draw a rough sketch before making a big painting. You'll make a simple version of your project – don't worry about making it perfect! It's just so you can see how it might work in real life. You'll make an ML model, just like you did before, then link it to an awesome Scratch project your users can interact with.
 
-2. **Test**: This is the fun part! 🚀 Try out your prototype to see how it works. It's like playing a new game for the first time to find out if it's fun or if there are any glitches. Ask your friends or family to try it too; they might have some cool ideas or notice things you missed! Get feedback from your users about their experience - try the '2 ⭐s and a wish' method!
+2. **Test**: This is the fun part! 🚀 Try out your prototype to see how it works. Ask your friends or family to try it too; they might have some cool ideas or notice things you missed! Get feedback from your users about their experience - try one of the example feedback methods at the bottom of this page!
 
-3. **Iterate**: "Iterate" is just a fancy word that means "do it again, but better." Based on what you learned from testing, go back and make some changes to your prototype. Maybe you want to add something new or fix a part that didn't work right.
+3. **Iterate**: "Iterate" just means "repeat the process, with the aim of making it better". Based on what you learnt when you and others tested your app, go back and make some changes to your prototype. Maybe you want to add something new or fix a part that didn't work right.
 
 Remember, it's all about trying, learning, and improving. Every time you go through these steps, your idea will get better and cooler! 
 
 Ready to give it a go? Great!
 
 ### Gather data
-Before you can train your Machine Learning model, you need to pick a dataset for your project. Think of it as choosing the right set of LEGO bricks to build an epic creation!
+Before you can train your machine learning model, you need to pick a data set for your project. 
 
 --- collapse ---
 ---
-title: Choose a dataset
+title: Choose a data set
 ---
 
-**What's a dataset?**
-It's like a big collection of information that your machine will learn from. For example, it could be a list of songs, pictures of animals, or even recordings of different sounds!
+**What is a data set?**
+A data set is a big collection of information that you can use to train your machine learning model. For example, it could be a list of songs, pictures of animals, or even recordings of different sounds!
 
-**Where can you find datasets?**
-1. There are some cool websites that offer open-source datasets for free! Websites like [Kaggle](https://www.kaggle.com/datasets) or [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) have loads of them. Just like when you search online for your favorite game cheats or tips, search for the topic you're interested in!
-2. Remember in the previous stage of the challenge where you made your own dataset on Machine Learning 4 Kids? Guess what? You can do that again! Gather your own photos, texts, or sounds and build your unique dataset.
+**Where can you find data sets?**
+1. There are some cool websites that offer open-source data sets for free! Websites like [Kaggle](https://www.kaggle.com/datasets) or [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) have loads of them. You can search these sites for the topic you're interested in.
+2. Remember in the previous stage of the challenge where you made your own data set on Machine Learning for Kids? Guess what? You can do that again! Gather your own photos, texts, or sounds and build your unique data set.
 
 **A few things to keep in mind:**
-- **Safety First!**: 🛡️ When browsing online, be careful! Some datasets might not be suitable for kids. Always ask an adult or your teacher if you're unsure about using a certain dataset.
-- **Clean and Tidy**: 🧹 Some datasets can be like messy bedrooms. They might have missing pieces or errors. So, always check your dataset and make sure it's neat and clean before using it.
-- **Size Matters**: 📈 Imagine trying to become a Pokémon master with only two Pokémon cards...it's tough, right? In the ML world, the more training data (like pictures or sounds) you have, the better your model can become! It's like having a fuller deck of cards to play with. So, while you don't need billions of pieces of data for your model like ChatGPT, having a good-sized dataset can make your model smarter and more accurate.
+- **Safety first!**: 🛡️ When browsing online, be careful! Some data sets might not be suitable for kids. Always ask an adult or your teacher if you're unsure about using a certain data set.
+- **Clean and tidy**: 🧹 Some data sets can be like messy bedrooms. They might have missing pieces or errors. So, always check your data set and make sure it's neat and clean before using it.
+- **Size matters**: 📈 Imagine trying to become a Pokémon master with only two Pokémon cards...it's tough, right? In the machine learning world, the more training data (like pictures or sounds) you have, the better your model can become! So, while you don't need billions of pieces of data for your model, like ChatGPT, having a good-sized data set can make your model more accurate.
 
-Time to gather your data tools and set forth on this quest!
+Time to gather your data tools and start making!
 
 --- /collapse ---
 
@@ -40,26 +40,26 @@ Time to gather your data tools and set forth on this quest!
 [[[add-training-data-ml4k]]]
 
 ### Train the model
-Imagine teaching your pet dog a trick. You show it what to do, reward it when it does right, and correct it if it makes a mistake. Over time, it learns and gets better. Similarly, with machine learning, you're training your model using your dataset.
+Training an ML model is just teaching a computer by showing it many labelled examples. It learns to recognize patterns and gets better at tasks, like telling cats from dogs, as it sees more examples.
 
 --- collapse ---
 ---
 title: Train the model
 ---
 
-**What's the Trick?**  
+**What's the trick?**  
 You'll be showing your computer tons of examples from your chosen or created dataset. For instance, if you have a collection of pictures of Pokémon, you'll tell the computer which ones are Pikachu and which ones aren't.
 
 **Practise Makes Perfect:**  
-The computer will then go through each one, learning and making guesses. Sometimes it'll get it right, and other times it might mess up. But the more examples you show, the better it'll get at guessing correctly.
+The computer will then process each picture, learning and making predictions of what the picture contains. Sometimes it'll get the prediction right, and other times it might mess up. But the more examples you give, the better it'll get at guessing correctly.
 
 **Testing Time!**  
-After teaching (or training!) your model with lots of examples, you can then show it a new picture and see if it can correctly guess if it's a Pikachu or not. It's like a mini quiz for your computer!
+After training your model with lots of examples, you can then show it a new picture and see if it can correctly predict if it's a Pikachu or not. It's like a mini quiz for your computer!
 
 **More Data, Smarter Model:**  
-Just like reading more books makes you super smart, the more examples (data) you give to your model, the smarter it gets!
+Just like reading more books makes you super smart, the more examples of labelled data you give to your model, the more reliable it gets!
 
-So, grab your chosen or created dataset, and let's start training! Think of yourself as a computer coach, helping your computer learn and grow.
+So, grab your chosen or created dataset, and let's start training! Think of yourself as a computer coach, helping your model improve by providing lots of practice and training.
 
 --- /collapse ---
 
