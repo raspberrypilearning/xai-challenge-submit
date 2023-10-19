@@ -30,7 +30,7 @@ A data set is a big collection of information that you can use to train your mac
 **A few things to keep in mind:**
 - **Safety first!**: 🛡️ When browsing online, be careful! Some data sets might not be suitable for kids. Always ask an adult or your teacher if you're unsure about using a certain data set.
 - **Clean and tidy**: 🧹 Some data sets can be like messy bedrooms. They might have missing pieces or errors. So, always check your data set and make sure it's neat and clean before using it.
-- **Size matters**: 📈 Imagine trying to become a Pokémon master with only two Pokémon cards...it's tough, right? In the machine learning world, the more training data (like pictures or sounds) you have, the better your model can become! It's like having a fuller deck of cards to play with. So, while you don't need billions of pieces of data for your model, like ChatGPT, having a good-sized data set can make your model more accurate.
+- **Size matters**: 📈 Imagine trying to become a Pokémon master with only two Pokémon cards...it's tough, right? In the machine learning world, the more training data (like pictures or sounds) you have, the better your model can become! So, while you don't need billions of pieces of data for your model, like ChatGPT, having a good-sized data set can make your model more accurate.
 
 Time to gather your data tools and start making!
 
