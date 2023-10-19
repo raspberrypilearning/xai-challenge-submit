@@ -55,19 +55,19 @@ You know how superheroes have origin stories? This is your app's origin story �
 📌 **Your **: 
 Sketch or doodle how your app might look. It doesn't have to be perfect. It's like drawing a comic strip of your app's journey.
 
-**4a. Choose a Dataset: Pick Your Brain Food**
+**4a. Choose a Dataset:**
 📌 **What's It About?** 
 ust as athletes need training to get better, your app needs data for its training. 
 📌 **Your Move**: 
 Search for cool datasets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission and feed it to your ML model. Or, make your own dataset like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
 
-**4b. Train the Model: Practice Makes Perfect**
+**4b. Train the Model:**
 📌 **What's It About?** 
 Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your app. Think of it as a study session, but for your app.
 📌 **Your Move**: 
 Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. 
 
-**4c. Build in Scratch: Power Up Your Project**
+**4c. Build in Scratch:**
 📌 **What's It About?** 
 You've trained your model, and now it's showtime! It's like giving your favorite Scratch sprite a brand new skill using the power of Machine Learning.
 📌 **Your Move**: 
