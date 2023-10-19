@@ -23,6 +23,8 @@ So, next time you dream of creating the next big thing, remember design thinking
 
 ### The process
 
+This is an overview of the whole Design Thinking process, in case you need to look at the 'bigger picture' while making your ML app (questions are provided to help you get started in the next step!):
+
 ---
 
 ### 1. Empathise: Understand your audience
@@ -63,7 +65,7 @@ Search for cool datasets online at places like [kaggle](https://www.kaggle.com/)
 
 **4b. Train the Model:**
 📌 **What's It About?** 
-Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your app. Think of it as a study session, but for your app.
+Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your app. Think of it as a study session, but for your model.
 📌 **Your Move**: 
 Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. 
 
@@ -87,7 +89,7 @@ Share your app with friends. Get their honest opinions. It's like a taste test f
 📌 **What's It About?** 
 Got feedback? Great! Now, make your app even cooler by carefully considering the suggestions. 
 📌 **Your task**: 
-List the feedback and tweak your app. Maybe your friends wished that they could customise your game character with new outfits and powers, or suggested that you could make the instructions clearer. 
+List the feedback and tweak your app. Maybe your users wished that they could customise your game character with new outfits and powers, or suggested that you could make the instructions clearer. 
 
 ---
 
