@@ -13,34 +13,6 @@ You will:
   + Collect relevant **training data** for each class in your classification model
   + Train your machine learning model on your collected training data
   + Build a classifier application in Scratch that uses your model to solve a problem 
-+ 
-+ 
-
---- no-print ---
-
---- task ---
-
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">
-
-### Try it
-
-Description of what to do or think about when looking at the example.
-
-</div>
-<div>
-
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
-</div>
-
-</div>
-</div>
-
---- /task ---
-
---- /no-print ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
@@ -63,22 +35,4 @@ Create a machine learning application in Scratch that solves a problem you care 
 4. Allow users to customise or personalise the application, like choosing avatars or setting preferred themes
 </div>
 
---- no-print ---
-
-### Get inspiration
-
---- task ---
-
-Think about ... as you investigate these example projects to get more ideas:
-
---- /task ---
-
---- /no-print ---
-
---- print-only ---
-
-![Complete project](images/showcase_static.png)
-
---- /print-only ---
-
-
+## Lets get making!
