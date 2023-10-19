@@ -4,7 +4,7 @@ Let's look at the next steps of making your idea come to life!
 
 1. **Prototype**: Think of this as a mini-version or a "draft" of your idea. It's like when you draw a rough sketch before making a big painting. You'll make a simple version of your project – don't worry about making it perfect! It's just so you can see how it might work in real life. You'll make an ML model, just like you did before, then link it to an awesome Scratch project your users can interact with.
 
-2. **Test**: This is the fun part! 🚀 Try out your prototype to see how it works. Ask your friends or family to try it too; they might have some cool ideas or notice things you missed! Get feedback from your users about their experience - try the 'two ⭐s and a wish' method!
+2. **Test**: This is the fun part! 🚀 Try out your prototype to see how it works. Ask your friends or family to try it too; they might have some cool ideas or notice things you missed! Get feedback from your users about their experience - try one of the example feedback methods at the bottom of this page!
 
 3. **Iterate**: "Iterate" just means "repeat the process, with the aim of making it better". Based on what you learnt when you and others tested your app, go back and make some changes to your prototype. Maybe you want to add something new or fix a part that didn't work right.
 
