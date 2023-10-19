@@ -30,7 +30,7 @@ This is an overview of the whole Design Thinking process, in case you need to lo
 ### 1. Empathise: Understand your audience
 📌 **What's it about?** 
 Imagine you're watching a movie, and you're trying to figure out how the main character feels. That's empathy! In design, it means understanding what others need or struggle with.
-📌 **Your task**: 
+📌 **What to do**: 
 Chat with friends or classmates. Ask them about apps they love or hate and why. It's like gathering clues and the more clues you have, the closer you can get to making exactly what people want!
 
 ---
@@ -38,7 +38,7 @@ Chat with friends or classmates. Ask them about apps they love or hate and why. 
 ### 2. Define: Pinpoint the challenge
 📌 **What's it about?** 
 This step is about finding that one main challenge or problem from all the feedback you've gathered.
-📌 **Your task**: 
+📌 **What to do**: 
 Review your notes. What's that one thing everyone keeps talking about? That's your mission! Write it down as your main challenge.
 
 ---
@@ -46,7 +46,7 @@ Review your notes. What's that one thing everyone keeps talking about? That's yo
 ### 3. Ideate: Unleash your creativity
 📌 **What's it about?** 
 Think of this as a brainstorming party! No idea is too wild. It's like suggesting toppings for a pizza - the crazier, the better!
-📌 **Your task**: 
+📌 **What to do**: 
 Grab some colourful pens and paper. Write or draw every idea that pops into your head. Maybe an app that dances? Or sings? Go wild!
 
 ---
@@ -54,25 +54,25 @@ Grab some colourful pens and paper. Write or draw every idea that pops into your
 ### 4. Prototype: Craft Your blueprint
 📌 **What's it about?** 
 You know how superheroes have origin stories? This is your app's origin story — forge a basic version to show the world.
-📌 **Your **: 
+📌 **What to do**: 
 Sketch or doodle how your app might look. It doesn't have to be perfect. It's like drawing a comic strip of your app's journey.
 
 **4a. Choose a Dataset:**
 📌 **What's It About?** 
 ust as athletes need training to get better, your app needs data for its training. 
-📌 **Your Move**: 
+📌 **What to do**: 
 Search for cool datasets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission and feed it to your ML model. Or, make your own dataset like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
 
 **4b. Train the Model:**
 📌 **What's It About?** 
 Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your app. Think of it as a study session, but for your model.
-📌 **Your Move**: 
+📌 **What to do**: 
 Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. 
 
 **4c. Build in Scratch:**
 📌 **What's It About?** 
 You've trained your model, and now it's showtime! It's like giving your favorite Scratch sprite a brand new skill using the power of Machine Learning.
-📌 **Your Move**: 
+📌 **What to do**: 
 Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target="_blank"} and start building your project. With the skills you've got, connect your trained model from Machine Learning 4 Kids to Scratch. Remember how you made sprites move and talk? Now, they can 'learn' too! Maybe your sprite can predict the animal you're thinking of, distinguish between different sounds, or react to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation operate with its new digital brainpower!
 
 ---
@@ -80,7 +80,7 @@ Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target=
 ### 5. Test: Let Your Friends Take It for a Spin
 📌 **What's It About?** 
 You've built an amazing machine learning application. Now, it's time for your friends to use it and tell you how it feels.
-📌 **Your Move**: 
+📌 **What to do**: 
 Share your app with friends. Get their honest opinions. It's like a taste test for a new ice cream flavor. Try using the `Two ⭐s and a Wish` format: get your feedback in the form of two things your testers like about your app, and one thing they wish was different.
 
 ---
@@ -88,7 +88,7 @@ Share your app with friends. Get their honest opinions. It's like a taste test f
 ### 6. Iterate: Upgrade and shine
 📌 **What's It About?** 
 Got feedback? Great! Now, make your app even cooler by carefully considering the suggestions. 
-📌 **Your task**: 
+📌 **What to do**: 
 List the feedback and tweak your app. Maybe your users wished that they could customise your game character with new outfits and powers, or suggested that you could make the instructions clearer. 
 
 ---
@@ -96,7 +96,7 @@ List the feedback and tweak your app. Maybe your users wished that they could cu
 ### 7. Finalize: Get Ready for the Spotlight
 📌 **What's It About?** 
 You're about to launch your masterpiece. It's like the grand premiere of a movie.
-📌 **Your Move**: 
+📌 **What to do**: 
 Double-check everything. Make it look and feel awesome. Think about how you want to present your app and ML model, and fill out a 'model card' explaining your ML model. Then, unveil it to the world by submitting to us!
 
 ---
@@ -104,7 +104,7 @@ Double-check everything. Make it look and feel awesome. Think about how you want
 ### 8. Reflect and share: Tell your epic tale
 📌 **What's it about?** 
 Every hero has a story. Share yours. How did you turn an idea into this cool app?
-📌 **Your task**: 
+📌 **What to do**: 
 Fill out the submission form, including your answers to the 'magic questions', and your model card explaining your machine learning model. Shortlisted entrants will be invited to a special event for awesome AI architects with Google DeepMind, a world-leading AI research company!
 
 ---
