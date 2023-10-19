@@ -1,9 +1,9 @@
 ## The Design Thinking Process
 
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-<h2 style="color: #0faeb0">“Design is about shaping the future, and doing it better than anyone else.”</h2> </div>
+<h2 style="color: #0faeb0">“Design is not just what it looks like and feels like. Design is how it works.”</h2> </div>
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px; text-align: right'>
-<h3>- Elon Musk</h3>
+<h3>- Steve Jobs (founder of Apple)</h3>
 </div>
 <br>
 
@@ -57,29 +57,27 @@ Sketch or doodle how your app might look. It doesn't have to be perfect. It's li
 
 **4a. Choose a Dataset: Pick Your Brain Food**
 📌 **What's It About?** 
-Just like you need food to grow, your app needs data to learn. It's like feeding it its favorite snacks.
+ust as athletes need training to get better, your app needs data for its training. 
 📌 **Your Move**: 
 Search for cool datasets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission and feed it to your ML model. Or, make your own dataset like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
 
-
-**4b. Train the Model: Gym Time for Your App**
+**4b. Train the Model: Practice Makes Perfect**
 📌 **What's It About?** 
-Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your app. Think of it as a workout session, but for your app.
+Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your app. Think of it as a study session, but for your app.
 📌 **Your Move**: 
-Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. It's like teaching your pet some new tricks!
-
+Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. 
 
 **4c. Build in Scratch: Power Up Your Project**
 📌 **What's It About?** 
-You've trained your model, and now it's showtime! It's like giving your favorite Scratch sprite a brand new superpower using the magic of Machine Learning.
+You've trained your model, and now it's showtime! It's like giving your favorite Scratch sprite a brand new skill using the power of Machine Learning.
 📌 **Your Move**: 
-Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target="_blank"} and start building your project. With the skills you've got, connect your trained model from Machine Learning 4 Kids to Scratch. Remember how you made sprites move and talk? Now, they can 'learn' too! Maybe your sprite can guess the animal you're thinking of, tell musical instruments apart, or it can react to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation come to life with its new digital brainpower!
+Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target="_blank"} and start building your project. With the skills you've got, connect your trained model from Machine Learning 4 Kids to Scratch. Remember how you made sprites move and talk? Now, they can 'learn' too! Maybe your sprite can predict the animal you're thinking of, distinguish between different sounds, or react to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation operate with its new digital brainpower!
 
 ---
 
 ### 5. Test: Let Your Friends Take It for a Spin
 📌 **What's It About?** 
-You've built a mini roller coaster. Now, it's time for your friends to ride it and tell you how it feels.
+You've built an amazing machine learning application. Now, it's time for your friends to use it and tell you how it feels.
 📌 **Your Move**: 
 Share your app with friends. Get their honest opinions. It's like a taste test for a new ice cream flavor. Try using the `Two ⭐s and a Wish` format: get your feedback in the form of two things your testers like about your app, and one thing they wish was different.
 
@@ -95,9 +93,9 @@ List the feedback. Tweak your app like customizing your game character with new 
 
 ### 7. Finalize: Get Ready for the Spotlight
 📌 **What's It About?** 
-You're about to launch your masterpiece. It's like the grand premiere of your movie.
+You're about to launch your masterpiece. It's like the grand premiere of a movie.
 📌 **Your Move**: 
-Double-check everything. Make it look and feel awesome. Think about how you want to present your app and ML model, then fill out a 'model card' explaining your ML model. Then, unveil it to the world by submitting to us!
+Double-check everything. Make it look and feel awesome. Think about how you want to present your app and ML model, and fill out a 'model card' explaining your ML model. Then, unveil it to the world by submitting to us!
 
 ---
 

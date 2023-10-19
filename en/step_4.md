@@ -40,7 +40,7 @@ Time to gather your data tools and set forth on this quest!
 [[[add-training-data-ml4k]]]
 
 ### Train the model
-Imagine teaching your pet dog a trick. You show it what to do, reward it when it does right, and correct it if it makes a mistake. Over time, it learns and gets better. Similarly, with machine learning, you're training your model using your dataset.
+Training an ML model is just teaching a computer by showing it many labelled examples. It learns to recognize patterns and gets better at tasks, like telling cats from dogs, as it sees more examples.
 
 --- collapse ---
 ---
@@ -51,15 +51,15 @@ title: Train the model
 You'll be showing your computer tons of examples from your chosen or created dataset. For instance, if you have a collection of pictures of Pokémon, you'll tell the computer which ones are Pikachu and which ones aren't.
 
 **Practise Makes Perfect:**  
-The computer will then go through each one, learning and making guesses. Sometimes it'll get it right, and other times it might mess up. But the more examples you show, the better it'll get at guessing correctly.
+The computer will then process each picture, learning and making predictions of what the picture contains. Sometimes it'll get the prediction right, and other times it might mess up. But the more examples you give, the better it'll get at guessing correctly.
 
 **Testing Time!**  
-After teaching (or training!) your model with lots of examples, you can then show it a new picture and see if it can correctly guess if it's a Pikachu or not. It's like a mini quiz for your computer!
+After training your model with lots of examples, you can then show it a new picture and see if it can correctly predict if it's a Pikachu or not. It's like a mini quiz for your computer!
 
 **More Data, Smarter Model:**  
-Just like reading more books makes you super smart, the more examples (data) you give to your model, the smarter it gets!
+Just like reading more books makes you super smart, the more examples of labelled data you give to your model, the more reliable it gets!
 
-So, grab your chosen or created dataset, and let's start training! Think of yourself as a computer coach, helping your computer learn and grow.
+So, grab your chosen or created dataset, and let's start training! Think of yourself as a computer coach, helping your model improve by providing lots of practice and training.
 
 --- /collapse ---
 
