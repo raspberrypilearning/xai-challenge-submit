@@ -6,7 +6,7 @@ Let's start with the first three stages of the design thinking process!
 
 Before you set off on any epic quest, you need a map, right? In the world of **design thinking**, the first three steps - Empathise, Define, and Ideate - are like plotting your course on that map! 
 
-**Empathise** is all about talking to fellow adventurers (or users) and understanding what they want. Next up, **Define**! This is where you pinpoint the main quest and list all the features of your project and what you need to make that a reality. Finally, **Ideate** is the really creative part, where all ideas are welcome. 
+**Empathise** is all about talking to your users and understanding what they want (and what they don't want!) Next up, **Define**! This is where you pinpoint the main quest and list all the features of your project and what you need to make that a reality. Finally, **Ideate** is the really creative part, where all ideas are welcome. 
 
 These three stages are the planning part of the process. So, before you start making your machine learning app, take some time to chat, define, and dream big.
 
@@ -20,13 +20,13 @@ These three stages are the planning part of the process. So, before you start ma
 
 3. **Data stuff**: What kind of things (data) do they see or use often? How do they sort or group these things right now?
 
-4. **Easy-peasy or techy?**: Do you think your users want something super simple, like a toy, or something a bit more complex?
+4. **Easy-peasy or techy?**: Do you think your users want something super simple, like a toy, or something a bit more complex? Will they be able to use it if it's too complicated?
 
 5. **Imagine this**: Can you picture a time or place that this app would be used? Why would it be super helpful then?
 
 6. **Secrets safe?**: How do your users feel about sharing their information or images with the app? Do they want some things to stay private?
 
-7. **Dream results**: After using the app, what awesome thing does your user hope will happen? Maybe find things faster, or see cool patterns, or notice trends?
+7. **Dream results**: When using the app, what awesome thing does your user hope will happen? Maybe identify things faster or more accurately, spot cool patterns, or notice trends?
 
 --- /task ---
 
@@ -46,7 +46,7 @@ These three stages are the planning part of the process. So, before you start ma
 
 6. **Fun vs. functional**: Should the app be more fun and game-like or more like a helpful tool? Or a mix of both? How will you make it fun? What would make it helpful?
 
-7. **Look and feel**: How should the app look? Bright and colourful like a candy store? Or cool and sleek like a spaceship? Draw some pictures to help yourself envision your app.
+7. **Look and feel**: How should the app look? Bright and colourful like a rainbow? Or cool and sleek like a spaceship? Draw some pictures to help yourself envision your app.
 
 8.  **Success looks like**: How will you know if your app is a winner? Maybe everyone wants to use it, or it gets 5-star reviews? Maybe it looks super cool, or makes people laugh?
 

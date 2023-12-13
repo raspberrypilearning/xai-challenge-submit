@@ -19,19 +19,19 @@ You will:
 ### PROJECT BRIEF: Machine learning classification app
 <hr style="border-top: 2px solid black;">
 
-Create a machine learning application in Scratch that solves a problem you care about. 
+Create a machine learning application in Scratch that you can use to solve a problem you care about. 
 
 **Your machine learning classification application should:**
 1. Use Machine Learning for Kids in conjunction with Scratch to create a classification tool
 2. Have a clear user interface (UI) that helps users understand how to use the application
 3. Showcase the use of at least one type of data for classification: audio, image, or text
 4. Be user-friendly and intuitive, ensuring that users without prior machine learning knowledge can interact with the tool
-5. Provide feedback to the user on the classification results in an easy-to-understand manner
+5. Provide feedback to the user on the prediction made by the classifier in an easy-to-understand manner
 
 **Your ML classification application could...**
-1. Incorporate more than one type of data classification, blending audio, image, or text
+1. Incorporate more than one type of data classification, combining audio, image, or text
 2. Feature creative themes or settings, like a superhero world, a mystical forest, or an underwater adventure
-3. Incorporate animations, sounds, or visual effects that are triggered by the classification results
+3. Incorporate animations, sounds, or visual effects that are triggered depending on the prediction made by the classifier
 4. Allow users to customise or personalise the application, like choosing avatars or setting preferred themes
 </div>
 
