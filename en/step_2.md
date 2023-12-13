@@ -13,17 +13,17 @@ Hey, future world-changers! Ever wondered how the coolest apps, games, or even r
 Imagine you're baking a cake for the first time. You wouldn't just throw random ingredients into a bowl, right? You'd want a recipe, a plan! Design thinking is like that recipe, but for creating whatever cool stuff you want. It helps people make things that everyone loves and finds useful.
 
 **What's it for?**  
-Design thinking is all about understanding what people need. It's how yoou find out what will make your intended audience go "WOW!" and then crafting that perfect thing for them. Whether it's a new toy, a video game, or even a space rocket, design thinking helps dreamers like you turn wild ideas into real, awesome things.
+Design thinking is all about understanding what people need. It's how you find out what will make your intended audience go "WOW!" and then crafting that perfect thing for them. Whether it's a new toy, a video game, or even a space rocket, design thinking helps dreamers like you turn wild ideas into real, awesome things.
 
 **How's design thinking used in the real world?**  
-Big companies, like Apple, Disney, and even NASA, use design thinking! They chat with people (just like you and me) to understand what would make their lives more fun or easier. Then, they brainstorm, sketch, test, and build until they've made something amazing. It's like how game designers create levels in a video game, testing and tweaking until it's just right.
+Big companies like Apple, Disney, and even NASA, use design thinking! They chat with people (just like you and me) to understand what would make their lives more fun or easier. Then, they brainstorm, sketch, build, and test until they've made something amazing. It's like how game designers create levels in a video game, testing and tweaking until it's just right.
 
 So, next time you dream of creating the next big thing, remember design thinking. It's the secret ingredient that turns "What if?" into "Ta-da! Look what I made!" 🚀🎉
 
 
 ### The process
 
-This is an overview of the whole Design Thinking process, in case you need to look at the 'bigger picture' while making your ML app (questions are provided to help you get started in the next step!):
+This is an overview of the whole Design Thinking process, in case you need to look at the 'bigger picture' while making your ML application (questions are provided to help you get started in the next step!):
 
 ---
 
@@ -59,13 +59,13 @@ Sketch or doodle how your app might look. It doesn't have to be perfect. It's li
 
 **4a. Choose a Dataset:**
 📌 **What's It About?** 
-ust as athletes need training to get better, your app needs data for its training. 
+Just as athletes need training to get better, your model needs data for its training. 
 📌 **What to do**: 
-Search for cool datasets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission and feed it to your ML model. Or, make your own dataset like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
+Search for cool datasets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission and upload it to your ML model for training. Or, make your own dataset like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
 
 **4b. Train the Model:**
 📌 **What's It About?** 
-Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your app. Think of it as a study session, but for your model.
+Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your model. Think of it as a study session, but for your Machine Learning model.
 📌 **What to do**: 
 Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. 
 
@@ -73,15 +73,15 @@ Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.
 📌 **What's It About?** 
 You've trained your model, and now it's showtime! It's like giving your favorite Scratch sprite a brand new skill using the power of Machine Learning.
 📌 **What to do**: 
-Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target="_blank"} and start building your project. With the skills you've got, connect your trained model from Machine Learning 4 Kids to Scratch. Remember how you made sprites move and talk? Now, they can 'learn' too! Maybe your sprite can predict the animal you're thinking of, distinguish between different sounds, or react to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation operate with its new digital brainpower!
+Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target="_blank"} and start building your project. With the skills you've got, connect your trained model from Machine Learning 4 Kids to Scratch. Remember how you made sprites move and talk? Now, the sprite can 'learn' too! Maybe your sprite can identify what animal you're thinking of, distinguish between different sounds, or respond to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation operate with its new digital brainpower!
 
 ---
 
 ### 5. Test: Let Your Friends Take It for a Spin
 📌 **What's It About?** 
-You've built an amazing machine learning application. Now, it's time for your friends to use it and tell you how it feels.
+You've built an amazing machine learning application. Now, it's time for your friends to use it and tell you what they think of it.
 📌 **What to do**: 
-Share your app with friends. Get their honest opinions. It's like a taste test for a new ice cream flavor. Try using the `Two ⭐s and a Wish` format: get your feedback in the form of two things your testers like about your app, and one thing they wish was different.
+Share your app with friends. Get their honest opinions. Try using the `Two ⭐s and a Wish` format: get your feedback in the form of two things your testers like about your app, and one thing they wish was different.
 
 ---
 
@@ -95,7 +95,7 @@ List the feedback and tweak your app. Maybe your users wished that they could cu
 
 ### 7. Finalize: Get Ready for the Spotlight
 📌 **What's It About?** 
-You're about to launch your masterpiece. It's like the grand premiere of a movie.
+You're about to launch your masterpiece.
 📌 **What to do**: 
 Double-check everything. Make it look and feel awesome. Think about how you want to present your app and ML model, and fill out a 'model card' explaining your ML model. Then, unveil it to the world by submitting to us!
 
@@ -105,7 +105,7 @@ Double-check everything. Make it look and feel awesome. Think about how you want
 📌 **What's it about?** 
 Every hero has a story. Share yours. How did you turn an idea into this cool app?
 📌 **What to do**: 
-Fill out the submission form, including your answers to the 'magic questions', and your model card explaining your machine learning model. Shortlisted entrants will be invited to a special event for awesome AI architects with Google DeepMind, a world-leading AI research company!
+Fill out the submission form, including your answers to the 'magic questions', and your model card explaining your machine learning model. Shortlisted entrants will be invited to a special event for awesome AI architects!
 
 ---
 
