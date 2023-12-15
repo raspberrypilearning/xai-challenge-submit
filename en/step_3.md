@@ -4,7 +4,7 @@ Now it's time to plan your machine learning app!
 
 Let's start with the first three stages of the design thinking process!
 
-Before you set off on any epic quest, you need a map, right? In the world of **design thinking**, the first three steps - Empathise, Define, and Ideate - are like plotting your course on that map! 
+Before you set off on any epic quest, you need a map, right? In the world of **design thinking**, the first three steps — Empathise, Define, and Ideate — are like plotting your course on that map! 
 
 **Empathise** is all about talking to your users and understanding what they want (and what they don't want!) Next up, **Define**! This is where you pinpoint the main quest and list all the features of your project and what you need to make that a reality. Finally, **Ideate** is the really creative part, where all ideas are welcome. 
 
@@ -38,7 +38,7 @@ These three stages are the planning part of the process. So, before you start ma
 
 2. **Problem breakdown**: What are the most important parts of the problem you're trying to solve? If you were to describe your app to a friend, what are the things you’d tell them about first? 
 
-3. **Dream features**: If you could add any feature you want to the app, what would it be? Think big! Don't worry too much about how you're going to do it - what's the ultimate dream feature?
+3. **Dream features**: If you could add any feature you want to the app, what would it be? Think big! Don't worry too much about how you're going to do it — what's the ultimate dream feature?
 
 4. **User stories**: Can you make up a short story or example of someone using the app? Like, "Jamie used the app to sort her rock collection and found out she had 5 super rare ones!"
 
