@@ -23,7 +23,7 @@ So, next time you dream of creating the next big thing, remember design thinking
 
 ### The process
 
-This is an overview of the whole Design Thinking process, in case you need to look at the 'bigger picture' while making your ML application. We'll break it down into stages with helpful prompts to get you started in the next step!
+This is an overview of the whole design thinking process, in case you need to look at the 'bigger picture' while making your ML application. We'll break it down into stages with helpful prompts to get you started in the next step!
 
 ---
 
@@ -59,7 +59,7 @@ Sketch or doodle how your app might look. It doesn't have to be perfect. It's li
 
 **4a. Choose a data set:**
 📌 **What's it about?** 
-Just as athletes need training to get better, your model needs data for its training. 
+Just as athletes need to train to get better, your model needs data for its training. 
 📌 **What to do**: 
 Search for cool data sets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission, and upload it to your ML model for training. Or, make your own data set like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
 
