@@ -28,7 +28,7 @@ So go ahead, finalise that masterpiece, and take a moment to pat yourself on the
 
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-Once you submit your entry, your work will be looked at by a panel of AI experts and educators. You’ll get feedback on your work, with special shortlisted entries being showcased in our global Coolest Projects Showcase and shortlisted teams will be invited to a special showcase for AI creators!
+Once you submit your entry, your work will be looked at by a panel of AI experts and educators. You’ll get feedback on your work, with shortlisted entries being showcased in our global Coolest Projects Showcase! Shortlisted teams will be invited to a special showcase for AI creators!
 </p>
 
 ### Answer the four 'Magic Questions'
@@ -39,7 +39,7 @@ To help the experts understand your project better, we ask every participant in 
 3. If you had more time, what would you change or add to your application?
 4. Could your application be used to influence or harm people if someone used it in a way you didn't intend? If so, how could you stop that from happening?
 
-By answering these, not only do you guide us through your creation, but you also reflect on your journey and ensure your work is safe and fun for everyone. By providing detailed answers to these questions, you're giving your project a better spotlight, enhancing your chances of being shortlisted! Sharing more helps us truly understand and appreciate your hard work and creativity.
+By answering these, not only do you guide us through your creation, but you also reflect on your journey and ensure your work is safe and fun for everyone. By providing detailed answers to these questions, you'll give your project a better spotlight, and enhance your chances of being shortlisted! Sharing more helps us truly understand and appreciate your hard work and creativity.
 
 --- task ---
 
