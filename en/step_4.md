@@ -25,12 +25,12 @@ A data set is a big collection of information that you can use to train your mac
 
 **Where can you find data sets?**
 1. There are some cool websites that offer open-source data sets for free! Websites like [Kaggle](https://www.kaggle.com/datasets) or [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) have loads of them. You can search these sites for the topic you're interested in.
-2. Remember in the previous stage of the challenge where you made your own data set on Machine Learning for Kids? Guess what? You can do that again! Gather your own photos, texts, or sounds and build your unique data set.
+2. Remember in the previous stage of the challenge where you made your own data set on Machine Learning for Kids? Guess what? You can do that again! Gather your own photos, texts, or sounds and build your own unique data set.
 
 **A few things to keep in mind:**
 - **Safety first!**: 🛡️ When browsing online, be careful! Some data sets might not be suitable for kids. Always ask an adult or your teacher if you're unsure about using a certain data set.
 - **Clean and tidy**: 🧹 Some data sets can be like messy rooms. The data set might have missing pieces or errors. So, always check your data set and make sure it's neat and clean before using it.
-- **Size matters**: 📈 Imagine trying to speak a whole new language after only having one lesson...it's tough, right? In the machine learning world, the more training data (like pictures or sounds) you have, the better your model can become! So, while you don't need billions of pieces of data for your model, having a good-sized data set can make your model more accurate.
+- **Size matters**: 📈 Imagine trying to speak a whole new language after only having one lesson...it's tough, right? You may not know the right words to make the sentence you want. In the machine learning world, the more training data (like pictures or sounds) you have, the better your model can become! So, while you don't need billions of pieces of data for your model, having a good-sized data set can make your model more accurate — just like how knowing enough words in a new language makes communicating easier.
 
 Time to gather your data tools and start making!
 
@@ -40,7 +40,7 @@ Time to gather your data tools and start making!
 [[[add-training-data-ml4k]]]
 
 ### Train the model
-Training an ML model is just teaching a computer by showing it many labelled examples. The more examples you give it, the better it becomes at identifying patterns and using those patterns in the task you've set it, such as telling cats from dogs, for example.
+Training an ML model is just teaching a computer by showing it many labelled examples. The more examples you give it, the better the system becomes at identifying patterns and using those patterns in the task you've set it, such as telling cats from dogs, for example.
 
 --- collapse ---
 ---
@@ -51,7 +51,7 @@ title: Train the model
 You'll be providing your computer with tons of examples from your chosen or created data set. For instance, if you have a collection of pictures of Pokémon, you'll tell the computer which ones are Pikachu and which ones aren't.
 
 **Practice makes perfect:**  
-The computer will then process each picture, assess it for patterns, and make a prediction of what the picture contains. Sometimes it'll get the prediction right, and other times it might mess up. But the more labelled examples you give it, the better it'll get at correctly predicting what's a new image.
+The computer will then process each picture, assess it for patterns, and make a prediction of what the picture contains. Sometimes it'll get the prediction right, and other times it might mess up. But the more labelled examples you give it, the better it'll get at correctly predicting what's in a new image.
 
 **Testing time!**  
 After training your model with lots of examples, you can then input a new picture and see if it can correctly predict if it's a Pikachu or not. It's like a mini quiz for your computer!
@@ -79,6 +79,8 @@ Alternatively, you can:
 + Paste the image address into the link box
 
 Then, click the **Test with www** button to test your model.
+
+If you’re not happy with how the model is working, go back to the **Train** page (by clicking **Back to project** and then **Train**) and add more examples to all the training buckets. 
 
 --- /collapse ---
 
@@ -108,7 +110,7 @@ To see how successful your model is at classifying your text, test your model by
 
 **IMPORTANT:** Make sure you don't use text that already exists in your training data!
 
-Click the **Test** button to test your model. Your model will provide a prediction based on the text you entered and will tell you the level of confidence the model has in that prediction.
+Click the **Test** button to test your model. Your model will provide a prediction based on the text you entered and will tell you the level of confidence the model has in that prediction. If you’re not happy with how the model is working, go back to the **Train** page (by clicking **Back to project** and then **Train**) and add more examples to all the training buckets. 
 
 ![](images/test_text.png)
 
@@ -125,7 +127,7 @@ title: Pro tip: Save your work!
 
 This special version of Scratch allows you to access your machine learning model, as well as use the music database blocks. **But: if you try to open your project in another version of Scratch online, it won’t work.** 
 
-A solution you can use is to save your work to your computer often:
+A solution you can use is to save your work to your computer:
 
 --- task ---
 
