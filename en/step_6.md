@@ -18,7 +18,7 @@ title: Pro tip: Save your work!
 
 This special version of Scratch allows you to access your machine learning model, as well as use the music database blocks. **But: if you try to open your project in another version of Scratch online, it won’t work.** 
 
-A solution you can use is to save your work to your computer often:
+A solution you can use is to save your work to your computer:
 
 --- task ---
 
@@ -69,6 +69,6 @@ Fill in the form, making sure to tell us all about your awesome application!
 
 --- task ---
 
-The very last thing to do is to fill out our [participant survey](https://cambridge.eu.qualtrics.com/jfe/form/SV_3gRYEvqIwrFbtNs){:target="_blank"}, and let us know about your time during the quest, and which parts of it we can make better!
+The very last thing to do is to fill out our [participant survey](https://cambridge.eu.qualtrics.com/jfe/form/SV_3gRYEvqIwrFbtNs){:target="_blank"}, and let us know about your experience during the quest, and which parts of it we can make better!
 
 --- /task ---
