@@ -17,7 +17,7 @@ You will:
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
 ### PROJECT BRIEF: Machine learning classification app
-<hr style="border-top: 2px solid black;">
+<hr style="border-top: 2px solid black; border-bottom: 2px solid black;">
 
 Create a machine learning application in Scratch that you can use to solve a problem you care about. 
 
@@ -35,13 +35,7 @@ Create a machine learning application in Scratch that you can use to solve a pro
 4. Allow users to customise or personalise the application, like choosing avatars or setting preferred themes
 </div>
 
---- collapse ---
----
-title: The Design Thinking Process
----
-
-
-Hey, future world-changers! Ever wondered how the coolest apps, games, or even roller coasters are made? Enter the magical world of **design thinking**!
+Ever wondered how the coolest apps, games, or even roller coasters are made? Enter the magical world of **design thinking**!
 
 **Why do we use design thinking?**  
 Imagine you're baking a cake for the first time. You wouldn't just throw random ingredients into a bowl, right? You'd want a recipe, a plan! Design thinking is like that recipe, but for creating whatever cool stuff you want. It helps people make things that everyone loves and finds useful.
@@ -49,11 +43,15 @@ Imagine you're baking a cake for the first time. You wouldn't just throw random 
 **What's it for?**  
 Design thinking is all about understanding what people need. It's how you find out what will make your intended audience go "WOW!" and then crafting that perfect thing for them. Whether it's a new toy, a video game, or even a space rocket, design thinking helps dreamers like you turn wild ideas into real, awesome things.
 
-**How's design thinking used in the real world?**  
-Big companies like Apple, Disney, and even NASA, use design thinking! They chat with people (just like you and me) to understand what would make their lives more fun or easier. Then, they brainstorm, sketch, build, and test until they've made something amazing. It's like how game designers create levels in a video game, testing and tweaking until it's just right.
+**How is design thinking used in the real world?**  
+Big companies all over the world and places like NASA and DARPA use design thinking! They chat with people (just like you and me) to understand what would make their lives more fun or easier. Then, they brainstorm, sketch, build, and test until they've made something amazing. It's like how game designers create levels in a video game, testing and tweaking until it's just right.
 
 So, next time you dream of creating the next big thing, remember design thinking. It's the secret ingredient that turns "What if?" into "Ta-da! Look what I made!" 🚀🎉
 
+--- collapse ---
+---
+title: The Design Thinking Process - An Overview
+---
 
 ### The process
 
