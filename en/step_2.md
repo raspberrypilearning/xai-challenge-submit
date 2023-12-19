@@ -23,7 +23,7 @@ So, next time you dream of creating the next big thing, remember design thinking
 
 ### The process
 
-This is an overview of the whole Design Thinking process, in case you need to look at the 'bigger picture' while making your ML application (questions are provided to help you get started in the next step!):
+This is an overview of the whole design thinking process, in case you need to look at the 'bigger picture' while making your ML application. We'll break it down into stages with helpful prompts to get you started in the next step!
 
 ---
 
@@ -45,7 +45,7 @@ Review your notes. What's that one thing everyone keeps talking about? That's yo
 
 ### 3. Ideate: Unleash your creativity
 📌 **What's it about?** 
-Think of this as a brainstorming party! No idea is too wild. It's like suggesting toppings for a pizza - the crazier, the better!
+Think of this as a brainstorming party! No idea is too wild. It's like suggesting toppings for a pizza — the crazier, the better!
 📌 **What to do**: 
 Grab some colourful pens and paper. Write or draw every idea that pops into your head. Maybe an app that dances? Or sings? Go wild!
 
@@ -57,44 +57,44 @@ You know how superheroes have origin stories? This is your app's origin story �
 📌 **What to do**: 
 Sketch or doodle how your app might look. It doesn't have to be perfect. It's like drawing a comic strip of your app's journey.
 
-**4a. Choose a Dataset:**
-📌 **What's It About?** 
-Just as athletes need training to get better, your model needs data for its training. 
+**4a. Choose a data set:**
+📌 **What's it about?** 
+Just as athletes need to train to get better, your model needs data for its training. 
 📌 **What to do**: 
-Search for cool datasets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission and upload it to your ML model for training. Or, make your own dataset like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
+Search for cool data sets online at places like [kaggle](https://www.kaggle.com/){:target="_blank"}, find one that matches your mission, and upload it to your ML model for training. Or, make your own data set like you did in the previous stage! It's like choosing the right ingredients for a magic potion.
 
-**4b. Train the Model:**
-📌 **What's It About?** 
-Using [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"}," it's time to train your model. Think of it as a study session, but for your Machine Learning model.
+**4b. Train the model:**
+📌 **What's it about?** 
+Using [Machine Learning for Kids](https://machinelearningforkids.co.uk/){:target="_blank"}, it's time to train your model. Think of it as a study session, but for your machine learning model.
 📌 **What to do**: 
-Upload your dataset to [Machine Learning 4 Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. 
+Upload your dataset to [Machine Learning for Kids](https://machinelearningforkids.co.uk/){:target="_blank"} and start the training. 
 
 **4c. Build in Scratch:**
-📌 **What's It About?** 
-You've trained your model, and now it's showtime! It's like giving your favorite Scratch sprite a brand new skill using the power of Machine Learning.
+📌 **What's it about?** 
+You've trained your model, and now it's showtime! It's like giving your favourite Scratch sprite a brand new skill using the power of machine learning.
 📌 **What to do**: 
-Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target="_blank"} and start building your project. With the skills you've got, connect your trained model from Machine Learning 4 Kids to Scratch. Remember how you made sprites move and talk? Now, the sprite can 'learn' too! Maybe your sprite can identify what animal you're thinking of, distinguish between different sounds, or respond to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation operate with its new digital brainpower!
+Jump back into [Scratch](https://scratch.machinelearningforkids.co.uk/){:target="_blank"} and start building your project. With the skills you've got, connect your trained model from Machine Learning for Kids to Scratch. Remember how you made sprites move and talk? Now, the sprite can 'learn' too! Maybe your sprite can identify what animal you're thinking of, distinguish between different sounds, or respond to different objects you show it. The sky's the limit! Test it out, tweak, and have a blast watching your creation operate with its new digital brainpower!
 
 ---
 
-### 5. Test: Let Your Friends Take It for a Spin
-📌 **What's It About?** 
+### 5. Test: Let your friends have a go
+📌 **What's it about?** 
 You've built an amazing machine learning application. Now, it's time for your friends to use it and tell you what they think of it.
 📌 **What to do**: 
-Share your app with friends. Get their honest opinions. Try using the `Two ⭐s and a Wish` format: get your feedback in the form of two things your testers like about your app, and one thing they wish was different.
+Share your app with friends. Get their honest opinions. Try using the `Two ⭐s and a wish` format: get your feedback in the form of two things your testers like about your app, and one thing they wish was different.
 
 ---
 
 ### 6. Iterate: Upgrade and shine
-📌 **What's It About?** 
+📌 **What's it about?** 
 Got feedback? Great! Now, make your app even cooler by carefully considering the suggestions. 
 📌 **What to do**: 
 List the feedback and tweak your app. Maybe your users wished that they could customise your game character with new outfits and powers, or suggested that you could make the instructions clearer. 
 
 ---
 
-### 7. Finalize: Get Ready for the Spotlight
-📌 **What's It About?** 
+### 7. Finalise: Get ready for the spotlight
+📌 **What's it about?** 
 You're about to launch your masterpiece.
 📌 **What to do**: 
 Double-check everything. Make it look and feel awesome. Think about how you want to present your app and ML model, and fill out a 'model card' explaining your ML model. Then, unveil it to the world by submitting to us!
@@ -110,4 +110,4 @@ Fill out the submission form, including your answers to the 'magic questions', a
 ---
 
 
-In the next step, you'll start to plan your machine learning app using the Empathise, Define, and Ideate stages of the design thinking process. 
+In the next step, you'll start to plan your machine learning app exploring the Empathise, Define, and Ideate stages of the design thinking process in depth. 
