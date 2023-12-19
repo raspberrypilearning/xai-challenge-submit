@@ -8,7 +8,6 @@ copyedit: false
 last_tested: '2021-03-26'
 steps:
 - title: Introduction
-- title: The design thinking process
 - title: Plan - Empathise, define, ideate
 - title: Make - Prototype, test, iterate
 - title: Wrap-up - Finalise and reflect

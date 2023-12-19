@@ -1,69 +1,202 @@
-## Plan: Empathise, define, ideate
+## Make: Prototype, test, iterate
 
-Now it's time to plan your machine learning app!
+Let's look at the next steps of making your idea come to life!
 
-Let's start with the first three stages of the design thinking process!
+1. **Prototype**: Think of this as a mini-version or a "draft" of your idea. It's like when you draw a rough sketch before making a big painting. You'll make a simple version of your project — don't worry about making it perfect! It's just so you can see how it might work in real life. You'll make an ML model, just like you did before, then link it to an awesome Scratch project your users can interact with.
 
-Before you set off on any epic quest, you need a map, right? In the world of **design thinking**, the first three steps — Empathise, Define, and Ideate — are like plotting your course on that map! 
+2. **Test**: This is the fun part! 🚀 Try out your prototype to see how it works. Ask your friends or family to try it too; they might have some cool ideas or notice things you missed! Get feedback from your users about their experience — try one of the example feedback methods at the bottom of this page!
 
-**Empathise** is all about talking to your users and understanding what they want (and what they don't want!) Next up, **Define**! This is where you pinpoint the main quest and list all the features of your project and what you need to make that a reality. Finally, **Ideate** is the really creative part, where all ideas are welcome. 
+3. **Iterate**: "Iterate" just means "repeat the process, with the aim of making it better". Based on what you learnt when you and others tested your app, go back and make some changes to your prototype. Maybe you want to add something new or fix a part that didn't work right.
 
-These three stages are the planning part of the process. So, before you start making your machine learning app, take some time to chat, define, and dream big.
+Remember, it's all about trying, learning, and improving. Every time you go through these steps, your idea will get better and cooler! 
+
+Ready to give it a go? Great!
+
+### Gather data
+Before you can train your machine learning model, you need to pick a data set for your project. 
+
+--- collapse ---
+---
+title: Choose a data set
+---
+
+**What is a data set?**
+A data set is a big collection of information that you can use to train your machine learning model. For example, it could be a list of songs, pictures of animals, or even recordings of different sounds!
+
+**Where can you find data sets?**
+1. There are some cool websites that offer open-source data sets for free! Websites like [Kaggle](https://www.kaggle.com/datasets) or [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) have loads of them. You can search these sites for the topic you're interested in.
+2. Remember in the previous stage of the challenge where you made your own data set on Machine Learning for Kids? Guess what? You can do that again! Gather your own photos, texts, or sounds and build your own unique data set.
+
+**A few things to keep in mind:**
+- **Safety first!**: 🛡️ When browsing online, be careful! Some data sets might not be suitable for kids. Always ask an adult or your teacher if you're unsure about using a certain data set.
+- **Clean and tidy**: 🧹 Some data sets can be like messy rooms. The data set might have missing pieces or errors. So, always check your data set and make sure it's neat and clean before using it.
+- **Size matters**: 📈 Imagine trying to speak a whole new language after only having one lesson...it's tough, right? You may not know the right words to make the sentence you want. In the machine learning world, the more training data (like pictures or sounds) you have, the better your model can become! So, while you don't need billions of pieces of data for your model, having a good-sized data set can make your model more accurate — just like how knowing enough words in a new language makes communicating easier.
+
+Time to gather your data tools and start making!
+
+--- /collapse ---
+
+[[[make-a-model-ml4k]]]
+[[[add-training-data-ml4k]]]
+
+### Train the model
+Training an ML model is just teaching a computer by showing it many labelled examples. The more examples you give it, the better the system becomes at identifying patterns and using those patterns in the task you've set it, such as telling cats from dogs, for example.
+
+--- collapse ---
+---
+title: Train the model
+---
+
+**What's the trick?**  
+You'll be providing your computer with tons of examples from your chosen or created data set. For instance, if you have a collection of pictures of Pokémon, you'll tell the computer which ones are Pikachu and which ones aren't.
+
+**Practice makes perfect:**  
+The computer will then process each picture, assess it for patterns, and make a prediction of what the picture contains. Sometimes it'll get the prediction right, and other times it might mess up. But the more labelled examples you give it, the better it'll get at correctly predicting what's in a new image.
+
+**Testing time!**  
+After training your model with lots of examples, you can then input a new picture and see if it can correctly predict if it's a Pikachu or not. It's like a mini quiz for your computer!
+
+**More data, smarter model:**  
+Just like reading more books makes you super smart, the more examples of labelled data you give to your model, the more reliable it gets!
+
+So, grab your chosen or created data set, and let's start training! Think of yourself as a computer coach, helping your model improve by providing lots of practice and training.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Testing with images
+---
+
+Drag and drop an image into the link box (next to the Test with www button):
+
+![](images/test_with_www.png)
+
+Alternatively, you can:
+
++ Right-click on an image
++ Select **Copy image address**
++ Paste the image address into the link box
+
+Then, click the **Test with www** button to test your model.
+
+If you’re not happy with how the model is working, go back to the **Train** page (by clicking **Back to project** and then **Train**) and add more examples to all the training buckets. 
+
+--- /collapse ---
+
+
+--- collapse ---
+---
+title: Test with audio
+---
+
+Click the **Start listening** button to test your machine learning model.
+![Image that says 'Try making a sound to see how it is recognised based on your training' with two buttons beneath. A darker blue button reads 'start listening' and a light blue button reads 'stop listening'.](images/start_listening.png)
+
+Input one of the sounds that you have trained the computer to classify. When your machine learning model processes the sound, it will show a prediction of what it is.
+
+If you’re not happy with how the model is working, go back to the **Train** page (by clicking **Back to project** and then **Train**) and add more examples to all the training buckets. For example, try varying your speed and pronunciation, get other people to add samples in their voice...or do some funny voices yourself!
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Test with text
+---
+
+**Text projects need to be retrained after 24 hours:** If you are working on a text-based model, you will need to click the button to train your model if you have left it overnight. Your training data will be kept online, but the model will time out after 24 hours. The model will need to be retrained at the start of each session; this should only take a few minutes each time.
+
+To see how successful your model is at classifying your text, test your model by pasting or typing a sample into the field that appears.
+
+**IMPORTANT:** Make sure you don't use text that already exists in your training data!
+
+Click the **Test** button to test your model. Your model will provide a prediction based on the text you entered and will tell you the level of confidence the model has in that prediction. If you’re not happy with how the model is working, go back to the **Train** page (by clicking **Back to project** and then **Train**) and add more examples to all the training buckets. 
+
+![](images/test_text.png)
+
+
+--- /collapse ---
+
+### Build in Scratch
+Combine the magic of Scratch with the digital smarts of your trained machine learning model! Turn your cool new model into a game, a helper tool, or even a fun quiz! You've trained your model, tested its accuracy, and now it's showtime! Dive into Scratch, let your creativity run wild, and build something truly amazing.
+
+--- collapse ---
+---
+title: Pro tip - Save your work!
+---
+
+This special version of Scratch allows you to access your machine learning model, as well as use the music database blocks. **But: if you try to open your project in another version of Scratch online, it won’t work.** 
+
+A solution you can use is to save your work to your computer:
 
 --- task ---
 
-**Empathise: Ask yourself these questions or discuss them in your group and write the answers in your Blueprint.**
+First, give your program a name. Type the name of your program in the project name box at the top of the screen:
 
-1. **Who's it for?**: Who do you think will use this app the most? What do they want the app to help them with?
-
-2. **What's out there?**: Do you know if your users currently use any other apps or tools for this? What's cool or not so cool about those?
-
-3. **Data stuff**: What kind of things (data) do they see or use often? How do they sort or group these things right now?
-
-4. **Easy-peasy or techy?**: Do you think your users want something super simple, like a toy, or something a bit more complex? Will they be able to use it if it's too complicated?
-
-5. **Imagine this**: Can you picture a time or place that this app would be used? Why would it be super helpful then?
-
-6. **Secrets safe?**: How do your users feel about sharing their information or images with the app? Do they want some things to stay private?
-
-7. **Dream results**: When using the app, what awesome thing does your user hope will happen? Maybe identify things faster or more accurately, spot cool patterns, or notice trends?
+![The project name box highlighted.](images/name-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-**Define: Ask yourself these questions or discuss them in your group and write the answers in your Blueprint.**
+To save your project, click on **File**, and then on **Save to your computer**:
 
-1. **Main mission**: Based on what everyone said, what's the BIG thing your app should do? If your app was a superhero, what would its superpower be?
+![Selecting 'Save to your computer' in the 'File' menu.](images/save.png)
 
-2. **Problem breakdown**: What are the most important parts of the problem you're trying to solve? If you were to describe your app to a friend, what are the things you’d tell them about first? 
-
-3. **Dream features**: If you could add any feature you want to the app, what would it be? Think big! Don't worry too much about how you're going to do it — what's the ultimate dream feature?
-
-4. **User stories**: Can you make up a short story or example of someone using the app? Like, "Jamie used the app to sort her rock collection and found out she had 5 super rare ones!"
-
-5. **Top priorities**: If you had to pick just 3 things the app MUST do, what would they be? Think of them as the golden rules!
-
-6. **Fun vs. functional**: Should the app be more fun and game-like or more like a helpful tool? Or a mix of both? How will you make it fun? What would make it helpful?
-
-7. **Look and feel**: How should the app look? Bright and colourful like a rainbow? Or cool and sleek like a spaceship? Draw some pictures to help yourself envision your app.
-
-8.  **Success looks like**: How will you know if your app is a winner? Maybe everyone wants to use it, or it gets 5-star reviews? Maybe it looks super cool, or makes people laugh?
+Your Scratch `.sb3` file will be saved to your computer. 
 
 --- /task ---
 
---- task ---
+Once you have the .sb3 file for your project saved, you can open it again later, or on another computer:
++ Go to [rpf.io/mlscratch](rpf.io/mlscratch){:target="_blank"} to get to this special fork of Scratch 
++ Once Scratch opens choose **File** > **Load from your computer**
++ Select your file in the window that appears to get back to where you left off
 
-**Ideate: Ask yourself these questions or discuss them in your group and write the answers in your Blueprint.**
+![Image showing the Scratch file menu with the Load from your computer option highlighted.](images/load_menu.png)
 
-1. **Ideas storm**: If you had a magic wand, what cool features would you add to the app? Think wild and wacky! Write them all down and worry about how achievable they are later.
+Save your work as often as you can to make sure you don’t lose any progress!
 
-2. **Inspiration station**: Are there any apps or games you love? What do you like about them? Can you borrow some of those cool ideas? Are there things about them you don't like and want to avoid in your own app?
+--- /collapse ---
 
-3. **Fun factor or helping hand?**: What would make the app super fun to use? Maybe it gives out virtual high-fives or has funny sound effects? How can the app be really helpful? Does it give hints or tips? Or maybe it solves a serious issue? Do you want it to do both?
-   
-4. **Sketch it out**: Can you draw or doodle what you imagine the app might look like? Maybe it has a dragon mascot or a space theme? How is it laid out on screen? How will your users provide input?
-    
---- /task ---
 
-Once you've answered these questions in your Blueprint, you're ready to start creating! In the next step, you'll start making your model in Machine Learning for Kids and your application in Scratch!
+[[[generic-scratch-backdrop-from-library]]]
+[[[generic-scratch3-paint-new-backdrop]]]
+
+[[[generic-scratch-sound-from-library]]]
+[[[scratch3-record-sound]]]
+
+[[[generic-scratch3-sprite-from-library]]]
+[[[generic-scratch3-add-sprite-from-file]]]
+[[[generic-scratch3-draw-sprite]]]
+[[[generic-scratch3-add-costume]]]
+[[[scratch3-left-right-direction]]]
+
+[[[generic-scratch3-broadcast-message]]]
+[[[scratch3-ask-answer-chat]]]
+[[[scratch3-copy-code]]]
+[[[scratch3-join-text]]]
+[[[generic-scratch3-add-variable]]]
+[[[generic-scratch3-make-list]]]
+
+### Test and iterate
+You've designed an exciting Scratch application powered by a machine learning model. Now it's time to share it and gather some feedback to make it even better! Here's why feedback matters: think of it as someone telling you which parts of a puzzle look amazing and which pieces might fit better elsewhere.
+
+**1. Two stars and a wish 🌟🌟💫:**  
+This method is like getting mini-reviews! Ask your users for two good things and something to improve: 
+- 🌟 **First star:** What was super cool about your project?
+- 🌟 **Second star:** Another awesome part they enjoyed
+- 💫 **A wish:** A friendly tip or idea for improvement
+
+**2. The stoplight system 🚦:**  
+Present your project and then hand out three coloured cards: Red, yellow, and green.
+- 🟢 Green card: Parts of your project that are good to go!
+- 🟡 Yellow card: Areas that might need a little bit of tweaking
+- 🔴 Red card: Things that need a second look
+
+**3. Picture storyboard 🖼️:**  
+Give your testers a few blank paper panels and ask them to draw:
+- Their favourite part of your application
+- A scene or part where they were a bit confused
+- Any new idea or feature they imagine would be great!
+
+After collecting your feedback, hop back into Scratch and fine-tune your project. Adjustments based on what others think can turn your great project into an amazing one! Remember, every piece of advice is a step towards perfection. Keep iterating and have fun! 🚀🎨
