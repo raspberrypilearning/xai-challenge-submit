@@ -122,7 +122,7 @@ Combine the magic of Scratch with the digital smarts of your trained machine lea
 
 --- collapse ---
 ---
-title: Pro tip: Save your work!
+title: Pro tip - Save your work!
 ---
 
 This special version of Scratch allows you to access your machine learning model, as well as use the music database blocks. **But: if you try to open your project in another version of Scratch online, it won’t work.** 
