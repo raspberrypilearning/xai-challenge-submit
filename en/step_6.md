@@ -13,7 +13,7 @@ Before you begin the process, make sure you have access to the following things 
 
 --- collapse ---
 ---
-title: Pro tip: Save your work!
+title: Pro tip - Save your work!
 ---
 
 This special version of Scratch allows you to access your machine learning model, as well as use the music database blocks. **But: if you try to open your project in another version of Scratch online, it won’t work.** 
