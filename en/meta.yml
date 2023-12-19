@@ -1,16 +1,16 @@
 ---
-title: Experience AI Challenge | Stage 3 | Make a Machine Learning App
+title: Experience AI Challenge | Stage 3 | Make a machine learning app
 hero_image: images/banner.png
-description: Create a machine learning model on Machine Learning 4 Kids and code a Scratch application which uses it.
+description: Create a machine learning model on Machine Learning for Kids and code a Scratch application that uses it.
 version: 4
 listed: false
 copyedit: false
 last_tested: '2021-03-26'
 steps:
 - title: Introduction
-- title: The Design Thinking Process
-- title: Plan - Empathise, Define, Ideate
-- title: Make - Prototype, Test, Iterate
-- title: Wrap-Up - Finalise and Reflect
+- title: The design thinking process
+- title: Plan - Empathise, define, ideate
+- title: Make - Prototype, test, iterate
+- title: Wrap-up - Finalise and reflect
 - title: Share - Submit your app
 - title: What next?
